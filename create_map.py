@@ -5,6 +5,7 @@ import json, time, logging, sys, inspect, argparse, functools, copy
 from argparse import RawTextHelpFormatter
 from utils.netutils import *
 from utils.geoutils import * 
+from utils.dirutils import * 
 import pandas as pd
 import numpy as np
 import logging
@@ -14,10 +15,10 @@ logging.getLogger('elasticsearch').setLevel(logging.WARNING)
 logging.basicConfig(level = logging.INFO, format = '[%(asctime)s %(levelname)s]\t%(message)s')
 
 def parse_args():
-	parser = argparse.ArgumentParser(description='Creates map from data in Elasticsearch.', formatter_class=RawTextHelpFormatter)
+	parser = argparse.ArgumentParser(description='Creates choropleth maps from data stored in an Elasticsearch database or from file.', formatter_class=RawTextHelpFormatter)
 	parser.add_argument('--index', dest='index', default='ymetric-*-top_ips_span60.txt', required=False, help='Index pattern')
-	parser.add_argument('--file', dest='filename', default=False, required=False, help="If you want to load data from file, use this option and provide the date range in seconds.\n\n\n~~ TIME FILTER OPTIONS ~~\n\n")
-	
+	parser.add_argument('--file', dest='filename', default=False, required=False, help="If you want to load data from file, use this option and provide the date range in seconds.")
+	parser.add_argument('--dir', dest='dir', default='map_{}'.format(int(time.time())), help='Directory in which the map and the CSV file will be saved. Default directory name: map_<current_epoch_time>. Will be created if necessary. \n\n\n~~ TIME FILTER OPTIONS ~~\n\n')
 	
 	parser.add_argument('--to', dest='lt', required=False, default=None, help='Indicates end of date interval.')
 	parser.add_argument('--from', dest='gt', required=False, default=None, help="Indicates the beginning of date interval.")
@@ -188,7 +189,6 @@ logging.info('Creating map from {} to {}'.format(args.gt, args.lt))
 gg = Geo()
 logging.info('GeoIP and Country codes information loaded')
 
-
 if not args.filename:
 	#load data from elastic
 	df = get_data_from_elastic(args.index, args.field, args.agg_field, gt=args.gt, lt=args.lt, queries=args.queries, datefield=args.datefield)
@@ -226,13 +226,18 @@ logging.info('Rows shaped')
 grouped = group_ips(df, args.field) #agrupar por pais y meter top de ips
 logging.info('DataFrame grouped')
 
+logging.info('Output will be stored in the directory: {}'.format(args.dir))
+mkdir_p(args.dir)
+map_filename = '{}/geoip_map.html'.format(args.dir)
+csv_filename = '{}/geoip_converted.csv'.format(args.dir)
+
 #FILL DATAFRAME WITH ALL THE COUNTRIES 
 blank = gg.fill_blank_dataframe(grouped, 'IPs', args.field)
 logging.info('Plotting map to geoip_map.html ...')
-plot_map(blank, 'IPs', args.field, title=args.title)
+plot_map(blank, 'IPs', args.field, title=args.title, filename=map_filename)
 
 logging.info('Map finished!')
-df.to_csv('geoip_converted.csv', sep=';', columns=[args.agg_field, 'country', 'code', args.field], index=False, encoding='utf-8')
+df.to_csv(csv_filename, sep=';', columns=[args.agg_field, 'country', 'code', args.field], index=False, encoding='utf-8')
 logging.info('DataFrame saved to CSV file correos.csv')
 
 
