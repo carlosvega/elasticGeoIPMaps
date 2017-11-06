@@ -151,7 +151,7 @@ def plot_map(info, agg_field, field, title='Web Requests', filename='geoip_map.h
 		)
 	)
 	fig = dict( data=data, layout=layout )
-	plotly.offline.plot( fig, validate=True, filename=filename )
+	plotly.offline.plot( fig, validate=True, filename=filename, auto_open=False )
 	
 #example
 #change data from an specific internal subnet to their proper country
@@ -237,7 +237,7 @@ logging.info('Plotting map to geoip_map.html ...')
 plot_map(blank, 'IPs', args.field, title=args.title, filename=map_filename)
 
 logging.info('Map finished!')
-df.to_csv(csv_filename, sep=';', columns=[args.agg_field, 'country', 'code', args.field], index=False, encoding='utf-8')
+df.to_csv(csv_filename, sep=';', columns=['intIP', 'country', 'code', args.field], index=False, encoding='utf-8')
 logging.info('DataFrame saved to CSV file correos.csv')
 
 
