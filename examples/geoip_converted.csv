@@ -1,0 +1,3383 @@
+client_ip;country;code;visits
+;United Kingdom;GBR;2096.0
+;Germany;DEU;1071.0
+;Turkey;TUR;778.0
+;France;FRA;1709.0
+;United Kingdom;GBR;1062.0
+;Ireland;IRL;851.0
+;France;FRA;583.0
+;United Kingdom;GBR;839.0
+;France;FRA;428.0
+;China;CHN;498.0
+;United Kingdom;GBR;1226.0
+;France;FRA;942.0
+;Germany;DEU;921.0
+;Spain;ESP;1129.0
+;Germany;DEU;693.0
+;Spain;ESP;555.0
+;Romania;ROU;1033.0
+;Norway;NOR;558.0
+;France;FRA;1000.0
+;France;FRA;404.0
+;Spain;ESP;399.0
+;Denmark;DNK;526.0
+;France;FRA;656.0
+;Canada;CAN;515.0
+;United Kingdom;GBR;788.0
+;Poland;POL;485.0
+;Austria;AUT;802.0
+;Austria;AUT;968.0
+;Ukraine;UKR;949.0
+;Finland;FIN;993.0
+;South Africa;ZAF;746.0
+;Korea, Republic of;KOR;631.0
+;Israel;ISR;539.0
+;Germany;DEU;637.0
+;Netherlands;NLD;382.0
+;Netherlands;NLD;416.0
+;Netherlands;NLD;306.0
+;Greece;GRC;680.0
+;Spain;ESP;619.0
+;United Kingdom;GBR;421.0
+;Netherlands;NLD;571.0
+;Spain;ESP;309.0
+;France;FRA;288.0
+;Spain;ESP;387.0
+;Germany;DEU;255.0
+;Russian Federation;RUS;319.0
+;Spain;ESP;332.0
+;France;FRA;397.0
+;Russian Federation;RUS;385.0
+;China;CHN;384.0
+;France;FRA;627.0
+;Russian Federation;RUS;618.0
+;Russian Federation;RUS;326.0
+;Germany;DEU;646.0
+;Latvia;LVA;606.0
+;China;CHN;289.0
+;Australia;AUS;190.0
+;Germany;DEU;179.0
+;Germany;DEU;323.0
+;Germany;DEU;458.0
+;Germany;DEU;309.0
+;Sweden;SWE;330.0
+;Germany;DEU;242.0
+;Netherlands;NLD;233.0
+;Germany;DEU;232.0
+;Germany;DEU;262.0
+;Germany;DEU;315.0
+;Italy;ITA;184.0
+;Armenia;ARM;212.0
+;Russian Federation;RUS;199.0
+;Germany;DEU;234.0
+;Russian Federation;RUS;203.0
+;Iraq;IRQ;225.0
+;France;FRA;240.0
+;Russian Federation;RUS;192.0
+;Oman;OMN;216.0
+;Moldova, Republic of;MDA;201.0
+;Saudi Arabia;SAU;288.0
+;Bulgaria;BGR;219.0
+;United States;USA;245.0
+;United States;USA;227.0
+;United States;USA;360.0
+;United States;USA;204.0
+;United Kingdom;GBR;213.0
+;United Kingdom;GBR;433.0
+;Netherlands;NLD;326.0
+;Switzerland;CHE;238.0
+;United States;USA;237.0
+;Czech Republic;CZE;215.0
+;Czech Republic;CZE;211.0
+;Poland;POL;304.0
+;Norway;NOR;224.0
+;Norway;NOR;262.0
+;Poland;POL;348.0
+;Poland;POL;288.0
+;Portugal;PRT;355.0
+;United Kingdom;GBR;244.0
+;France;FRA;202.0
+;Iceland;ISL;326.0
+;France;FRA;295.0
+;France;FRA;387.0
+;France;FRA;192.0
+;France;FRA;275.0
+;France;FRA;221.0
+;Switzerland;CHE;372.0
+;United Kingdom;GBR;202.0
+;Sweden;SWE;232.0
+;Russian Federation;RUS;340.0
+;United Kingdom;GBR;220.0
+;Spain;ESP;212.0
+;Spain;ESP;191.0
+;Spain;ESP;225.0
+;Spain;ESP;311.0
+;Spain;ESP;407.0
+;Spain;ESP;206.0
+;Spain;ESP;219.0
+;Spain;ESP;307.0
+;Spain;ESP;221.0
+;Austria;AUT;246.0
+;Austria;AUT;197.0
+;Denmark;DNK;298.0
+;Denmark;DNK;284.0
+;France;FRA;325.0
+;Croatia;HRV;322.0
+;United Kingdom;GBR;256.0
+;United Kingdom;GBR;261.0
+;France;FRA;573.0
+;France;FRA;409.0
+;France;FRA;374.0
+;Portugal;PRT;329.0
+;United Kingdom;GBR;249.0
+;United Kingdom;GBR;281.0
+;Germany;DEU;227.0
+;Germany;DEU;205.0
+;Germany;DEU;208.0
+;Germany;DEU;308.0
+;Germany;DEU;292.0
+;France;FRA;283.0
+;France;FRA;176.0
+;France;FRA;356.0
+;Czech Republic;CZE;198.0
+;Turkey;TUR;179.0
+;Turkey;TUR;283.0
+;Spain;ESP;245.0
+;United Kingdom;GBR;380.0
+;Ireland;IRL;202.0
+;Germany;DEU;330.0
+;Spain;ESP;240.0
+;Spain;ESP;343.0
+;Spain;ESP;222.0
+;Spain;ESP;379.0
+;Spain;ESP;295.0
+;Spain;ESP;257.0
+;Italy;ITA;238.0
+;Italy;ITA;215.0
+;France;FRA;368.0
+;Austria;AUT;390.0
+;Portugal;PRT;356.0
+;Germany;DEU;343.0
+;France;FRA;250.0
+;Czech Republic;CZE;308.0
+;Russian Federation;RUS;374.0
+;Germany;DEU;260.0
+;Germany;DEU;264.0
+;Netherlands;NLD;267.0
+;Belarus;BLR;216.0
+;Germany;DEU;524.0
+;Germany;DEU;277.0
+;Russian Federation;RUS;179.0
+;Portugal;PRT;271.0
+;United Kingdom;GBR;200.0
+;China;CHN;1418.0
+;United States;USA;234.0
+;United States;USA;181.0
+;Portugal;PRT;247.0
+;Portugal;PRT;511.0
+;Portugal;PRT;326.0
+;Italy;ITA;263.0
+;Korea, Republic of;KOR;557.0
+;United States;USA;299.0
+;Kazakhstan;KAZ;422.0
+;Brazil;BRA;219.0
+;Poland;POL;374.0
+;India;IND;288.0
+;Russian Federation;RUS;310.0
+;China;CHN;235.0
+;Slovenia;SVN;306.0
+;Iran, Islamic Republic of;IRN;227.0
+;France;FRA;515.0
+;United Kingdom;GBR;203.0
+;Mexico;MEX;175.0
+;Germany;DEU;316.0
+;Brazil;BRA;396.0
+;Argentina;ARG;162.0
+;Finland;FIN;275.0
+;Finland;FIN;329.0
+;Netherlands;NLD;357.0
+;Russian Federation;RUS;397.0
+;Israel;ISR;388.0
+;Netherlands;NLD;310.0
+;Sweden;SWE;386.0
+;Sweden;SWE;219.0
+;Germany;DEU;316.0
+;Germany;DEU;418.0
+;Austria;AUT;339.0
+;Italy;ITA;324.0
+;United Kingdom;GBR;385.0
+;Germany;DEU;217.0
+;Germany;DEU;224.0
+;Germany;DEU;353.0
+;Japan;JPN;243.0
+;China;CHN;230.0
+;Hong Kong;HKG;100.0
+;Korea, Republic of;KOR;83.0
+;Australia;AUS;134.0
+;China;CHN;94.0
+;United Kingdom;GBR;149.0
+;Norway;NOR;87.0
+;Norway;NOR;151.0
+;Spain;ESP;138.0
+;Spain;ESP;219.0
+;Spain;ESP;248.0
+;Spain;ESP;189.0
+;Spain;ESP;201.0
+;Spain;ESP;223.0
+;Spain;ESP;150.0
+;Spain;ESP;129.0
+;Spain;ESP;153.0
+;Spain;ESP;108.0
+;Spain;ESP;153.0
+;Spain;ESP;82.0
+;Spain;ESP;163.0
+;Spain;ESP;143.0
+;Spain;ESP;201.0
+;Spain;ESP;104.0
+;Spain;ESP;121.0
+;Spain;ESP;149.0
+;Spain;ESP;102.0
+;Spain;ESP;206.0
+;Spain;ESP;200.0
+;Spain;ESP;152.0
+;Spain;ESP;121.0
+;Spain;ESP;222.0
+;Spain;ESP;183.0
+;Spain;ESP;152.0
+;Italy;ITA;178.0
+;Italy;ITA;180.0
+;Italy;ITA;126.0
+;Italy;ITA;184.0
+;Germany;DEU;194.0
+;Germany;DEU;87.0
+;Germany;DEU;107.0
+;Germany;DEU;115.0
+;Germany;DEU;103.0
+;Germany;DEU;109.0
+;Germany;DEU;94.0
+;Germany;DEU;137.0
+;Germany;DEU;133.0
+;Germany;DEU;140.0
+;Germany;DEU;192.0
+;Germany;DEU;131.0
+;Germany;DEU;150.0
+;Germany;DEU;109.0
+;Germany;DEU;120.0
+;Germany;DEU;117.0
+;Germany;DEU;110.0
+;Germany;DEU;152.0
+;Germany;DEU;162.0
+;Germany;DEU;116.0
+;Germany;DEU;127.0
+;Germany;DEU;113.0
+;Germany;DEU;178.0
+;Germany;DEU;108.0
+;Germany;DEU;244.0
+;Germany;DEU;190.0
+;Germany;DEU;108.0
+;Germany;DEU;125.0
+;Germany;DEU;148.0
+;Germany;DEU;85.0
+;Germany;DEU;107.0
+;Germany;DEU;187.0
+;Germany;DEU;179.0
+;Germany;DEU;131.0
+;Germany;DEU;129.0
+;Germany;DEU;185.0
+;Germany;DEU;115.0
+;United States;USA;158.0
+;France;FRA;95.0
+;France;FRA;219.0
+;Greece;GRC;145.0
+;Germany;DEU;161.0
+;Ukraine;UKR;148.0
+;France;FRA;191.0
+;Czech Republic;CZE;87.0
+;Poland;POL;118.0
+;Iran, Islamic Republic of;IRN;146.0
+;Iran, Islamic Republic of;IRN;153.0
+;Italy;ITA;87.0
+;Italy;ITA;124.0
+;Saudi Arabia;SAU;99.0
+;Iraq;IRQ;186.0
+;Russian Federation;RUS;82.0
+;Poland;POL;150.0
+;Iran, Islamic Republic of;IRN;148.0
+;Iran, Islamic Republic of;IRN;195.0
+;Iran, Islamic Republic of;IRN;198.0
+;Sweden;SWE;97.0
+;Sweden;SWE;87.0
+;Sweden;SWE;194.0
+;Sweden;SWE;85.0
+;Sweden;SWE;139.0
+;Sweden;SWE;107.0
+;United States;USA;182.0
+;United States;USA;148.0
+;United States;USA;124.0
+;United States;USA;109.0
+;Japan;JPN;116.0
+;Korea, Republic of;KOR;151.0
+;Korea, Republic of;KOR;103.0
+;Viet Nam;VNM;85.0
+;Australia;AUS;110.0
+;United States;USA;87.0
+;spain;ES;102.0
+;United States;USA;110.0
+;United States;USA;84.0
+;Taiwan, Province of China;TWN;140.0
+;Taiwan, Province of China;TWN;122.0
+;India;IND;171.0
+;Korea, Republic of;KOR;97.0
+;Korea, Republic of;KOR;99.0
+;Germany;DEU;101.0
+;Germany;DEU;146.0
+;Germany;DEU;125.0
+;Germany;DEU;102.0
+;Germany;DEU;120.0
+;Germany;DEU;148.0
+;Germany;DEU;126.0
+;Germany;DEU;171.0
+;Germany;DEU;92.0
+;Germany;DEU;216.0
+;Germany;DEU;118.0
+;Germany;DEU;115.0
+;Germany;DEU;183.0
+;Germany;DEU;217.0
+;Germany;DEU;128.0
+;Germany;DEU;120.0
+;Germany;DEU;84.0
+;Germany;DEU;92.0
+;Germany;DEU;115.0
+;Germany;DEU;146.0
+;Germany;DEU;101.0
+;Germany;DEU;87.0
+;Germany;DEU;117.0
+;Germany;DEU;134.0
+;Germany;DEU;209.0
+;Germany;DEU;207.0
+;Netherlands;NLD;183.0
+;Netherlands;NLD;202.0
+;Netherlands;NLD;175.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;135.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;136.0
+;Netherlands;NLD;97.0
+;Netherlands;NLD;109.0
+;Netherlands;NLD;213.0
+;Netherlands;NLD;117.0
+;Netherlands;NLD;176.0
+;Netherlands;NLD;153.0
+;Netherlands;NLD;79.0
+;Netherlands;NLD;233.0
+;Netherlands;NLD;102.0
+;Netherlands;NLD;104.0
+;Netherlands;NLD;107.0
+;Netherlands;NLD;136.0
+;Netherlands;NLD;179.0
+;Netherlands;NLD;123.0
+;Netherlands;NLD;196.0
+;Netherlands;NLD;154.0
+;Netherlands;NLD;112.0
+;Netherlands;NLD;139.0
+;Netherlands;NLD;87.0
+;Netherlands;NLD;183.0
+;Netherlands;NLD;100.0
+;Netherlands;NLD;182.0
+;Netherlands;NLD;227.0
+;Netherlands;NLD;135.0
+;Netherlands;NLD;124.0
+;Netherlands;NLD;190.0
+;Netherlands;NLD;176.0
+;Netherlands;NLD;95.0
+;Netherlands;NLD;137.0
+;Netherlands;NLD;144.0
+;Netherlands;NLD;107.0
+;Netherlands;NLD;113.0
+;Netherlands;NLD;190.0
+;Netherlands;NLD;97.0
+;Netherlands;NLD;222.0
+;Netherlands;NLD;92.0
+;Netherlands;NLD;177.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;150.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;183.0
+;Netherlands;NLD;119.0
+;Netherlands;NLD;118.0
+;Netherlands;NLD;111.0
+;Netherlands;NLD;136.0
+;Netherlands;NLD;140.0
+;Netherlands;NLD;116.0
+;Netherlands;NLD;154.0
+;Netherlands;NLD;181.0
+;Netherlands;NLD;89.0
+;Netherlands;NLD;97.0
+;Netherlands;NLD;84.0
+;Netherlands;NLD;111.0
+;Netherlands;NLD;122.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;185.0
+;Netherlands;NLD;211.0
+;Croatia;HRV;91.0
+;Hungary;HUN;191.0
+;Iran, Islamic Republic of;IRN;209.0
+;Russian Federation;RUS;218.0
+;Russian Federation;RUS;118.0
+;Spain;ESP;133.0
+;Germany;DEU;152.0
+;Germany;DEU;151.0
+;Germany;DEU;125.0
+;Germany;DEU;121.0
+;Germany;DEU;158.0
+;Germany;DEU;241.0
+;Germany;DEU;128.0
+;Germany;DEU;102.0
+;Germany;DEU;171.0
+;Germany;DEU;111.0
+;Germany;DEU;153.0
+;Germany;DEU;158.0
+;Germany;DEU;184.0
+;Germany;DEU;206.0
+;Germany;DEU;209.0
+;Germany;DEU;177.0
+;United States;USA;180.0
+;Japan;JPN;117.0
+;Ireland;IRL;155.0
+;Ireland;IRL;188.0
+;Ireland;IRL;105.0
+;Spain;ESP;153.0
+;Germany;DEU;102.0
+;Italy;ITA;106.0
+;Italy;ITA;155.0
+;Germany;DEU;162.0
+;Germany;DEU;143.0
+;Azerbaijan;AZE;119.0
+;Azerbaijan;AZE;149.0
+;Azerbaijan;AZE;101.0
+;United Kingdom;GBR;171.0
+;United Kingdom;GBR;162.0
+;United Kingdom;GBR;177.0
+;Poland;POL;124.0
+;Armenia;ARM;206.0
+;France;FRA;176.0
+;France;FRA;117.0
+;Poland;POL;123.0
+;Spain;ESP;170.0
+;Iran, Islamic Republic of;IRN;103.0
+;Russian Federation;RUS;143.0
+;Russian Federation;RUS;103.0
+;Russian Federation;RUS;172.0
+;Spain;ESP;97.0
+;Spain;ESP;177.0
+;Spain;ESP;102.0
+;Spain;ESP;148.0
+;Poland;POL;233.0
+;Poland;POL;111.0
+;Poland;POL;128.0
+;Poland;POL;202.0
+;Poland;POL;193.0
+;Poland;POL;157.0
+;Poland;POL;125.0
+;Poland;POL;182.0
+;Poland;POL;202.0
+;Poland;POL;95.0
+;Poland;POL;200.0
+;Poland;POL;155.0
+;Poland;POL;86.0
+;Poland;POL;177.0
+;Russian Federation;RUS;172.0
+;Russian Federation;RUS;201.0
+;Russian Federation;RUS;208.0
+;Russian Federation;RUS;119.0
+;Russian Federation;RUS;160.0
+;Russian Federation;RUS;182.0
+;Russian Federation;RUS;144.0
+;Russian Federation;RUS;254.0
+;Belarus;BLR;152.0
+;Belarus;BLR;171.0
+;Belarus;BLR;193.0
+;Belarus;BLR;146.0
+;Belarus;BLR;209.0
+;Belarus;BLR;168.0
+;Belarus;BLR;117.0
+;Belarus;BLR;167.0
+;Belarus;BLR;115.0
+;Belarus;BLR;106.0
+;Belarus;BLR;144.0
+;Belarus;BLR;158.0
+;Germany;DEU;101.0
+;Germany;DEU;107.0
+;Germany;DEU;131.0
+;Germany;DEU;125.0
+;Russian Federation;RUS;192.0
+;Russian Federation;RUS;101.0
+;Russian Federation;RUS;141.0
+;Russian Federation;RUS;168.0
+;Iran, Islamic Republic of;IRN;219.0
+;Iran, Islamic Republic of;IRN;127.0
+;Iran, Islamic Republic of;IRN;199.0
+;Iran, Islamic Republic of;IRN;139.0
+;Iran, Islamic Republic of;IRN;174.0
+;Netherlands;NLD;132.0
+;Norway;NOR;82.0
+;Cyprus;CYP;104.0
+;Cyprus;CYP;113.0
+;Cyprus;CYP;117.0
+;Cyprus;CYP;101.0
+;Cyprus;CYP;88.0
+;Cyprus;CYP;150.0
+;Cyprus;CYP;161.0
+;Cyprus;CYP;115.0
+;Cyprus;CYP;103.0
+;Cyprus;CYP;204.0
+;Cyprus;CYP;211.0
+;Cyprus;CYP;124.0
+;Kazakhstan;KAZ;113.0
+;Kazakhstan;KAZ;136.0
+;Kazakhstan;KAZ;210.0
+;Kazakhstan;KAZ;100.0
+;Kazakhstan;KAZ;154.0
+;Kazakhstan;KAZ;184.0
+;Kazakhstan;KAZ;134.0
+;Spain;ESP;208.0
+;Spain;ESP;208.0
+;Iraq;IRQ;179.0
+;Iraq;IRQ;130.0
+;Iraq;IRQ;135.0
+;Germany;DEU;101.0
+;Iraq;IRQ;119.0
+;Iraq;IRQ;162.0
+;Iraq;IRQ;147.0
+;Iraq;IRQ;105.0
+;Iraq;IRQ;171.0
+;Iraq;IRQ;170.0
+;Iraq;IRQ;87.0
+;Iraq;IRQ;153.0
+;United States;USA;182.0
+;Italy;ITA;151.0
+;Iraq;IRQ;194.0
+;United Arab Emirates;ARE;85.0
+;Korea, Republic of;KOR;110.0
+;Korea, Republic of;KOR;98.0
+;Niger;NER;128.0
+;Korea, Republic of;KOR;115.0
+;Japan;JPN;111.0
+;United States;USA;176.0
+;spain;ES;120.0
+;Germany;DEU;119.0
+;Germany;DEU;146.0
+;Ukraine;UKR;90.0
+;Ukraine;UKR;79.0
+;Sweden;SWE;104.0
+;Estonia;EST;183.0
+;Estonia;EST;95.0
+;Estonia;EST;91.0
+;Czech Republic;CZE;172.0
+;Czech Republic;CZE;149.0
+;Spain;ESP;150.0
+;Serbia;SRB;150.0
+;Bulgaria;BGR;124.0
+;Syrian Arab Republic;SYR;212.0
+;Syrian Arab Republic;SYR;89.0
+;Oman;OMN;175.0
+;Oman;OMN;113.0
+;Germany;DEU;135.0
+;Russian Federation;RUS;174.0
+;Russian Federation;RUS;159.0
+;Poland;POL;132.0
+;Poland;POL;147.0
+;Iran, Islamic Republic of;IRN;129.0
+;Iran, Islamic Republic of;IRN;114.0
+;Russian Federation;RUS;96.0
+;Bahrain;BHR;122.0
+;Russian Federation;RUS;128.0
+;Kazakhstan;KAZ;115.0
+;Kazakhstan;KAZ;232.0
+;United Kingdom;GBR;114.0
+;United Kingdom;GBR;85.0
+;Russian Federation;RUS;101.0
+;Russian Federation;RUS;88.0
+;Russian Federation;RUS;104.0
+;Russian Federation;RUS;104.0
+;Russian Federation;RUS;208.0
+;Russian Federation;RUS;152.0
+;Russian Federation;RUS;123.0
+;Moldova, Republic of;MDA;127.0
+;Austria;AUT;114.0
+;Austria;AUT;160.0
+;Turkey;TUR;111.0
+;Poland;POL;144.0
+;Saudi Arabia;SAU;120.0
+;Poland;POL;108.0
+;Russian Federation;RUS;183.0
+;Saudi Arabia;SAU;147.0
+;Bulgaria;BGR;199.0
+;Bulgaria;BGR;155.0
+;Bulgaria;BGR;175.0
+;Bulgaria;BGR;106.0
+;Bulgaria;BGR;110.0
+;Bulgaria;BGR;96.0
+;Bulgaria;BGR;110.0
+;Bulgaria;BGR;84.0
+;Bulgaria;BGR;156.0
+;Bulgaria;BGR;150.0
+;United Kingdom;GBR;128.0
+;United Kingdom;GBR;106.0
+;United Kingdom;GBR;213.0
+;United Kingdom;GBR;183.0
+;United Kingdom;GBR;168.0
+;United Kingdom;GBR;89.0
+;United Kingdom;GBR;98.0
+;Germany;DEU;120.0
+;Germany;DEU;124.0
+;Germany;DEU;171.0
+;Germany;DEU;103.0
+;Germany;DEU;192.0
+;Germany;DEU;115.0
+;Germany;DEU;104.0
+;Germany;DEU;154.0
+;Germany;DEU;112.0
+;Germany;DEU;114.0
+;Germany;DEU;114.0
+;Germany;DEU;131.0
+;Germany;DEU;126.0
+;Germany;DEU;152.0
+;Germany;DEU;89.0
+;Germany;DEU;121.0
+;Germany;DEU;149.0
+;Germany;DEU;106.0
+;Germany;DEU;157.0
+;Germany;DEU;147.0
+;Germany;DEU;198.0
+;Bulgaria;BGR;148.0
+;Bulgaria;BGR;127.0
+;Bulgaria;BGR;137.0
+;Bulgaria;BGR;135.0
+;Bulgaria;BGR;96.0
+;Bulgaria;BGR;110.0
+;Bulgaria;BGR;206.0
+;Bulgaria;BGR;116.0
+;Bulgaria;BGR;201.0
+;Bulgaria;BGR;184.0
+;Bulgaria;BGR;91.0
+;Bulgaria;BGR;142.0
+;Poland;POL;171.0
+;Poland;POL;226.0
+;United Kingdom;GBR;185.0
+;Canada;CAN;123.0
+;Canada;CAN;178.0
+;Germany;DEU;94.0
+;Singapore;SGP;196.0
+;United States;USA;91.0
+;United States;USA;106.0
+;United States;USA;183.0
+;United States;USA;159.0
+;United States;USA;118.0
+;United States;USA;227.0
+;United States;USA;127.0
+;United States;USA;114.0
+;United States;USA;123.0
+;United States;USA;81.0
+;United States;USA;115.0
+;United States;USA;114.0
+;United States;USA;181.0
+;United States;USA;171.0
+;United States;USA;116.0
+;United States;USA;106.0
+;United States;USA;115.0
+;United States;USA;111.0
+;United States;USA;137.0
+;United States;USA;85.0
+;United States;USA;97.0
+;United States;USA;87.0
+;United States;USA;185.0
+;United States;USA;127.0
+;United States;USA;247.0
+;United States;USA;115.0
+;United States;USA;108.0
+;United States;USA;148.0
+;United States;USA;186.0
+;United States;USA;152.0
+;United States;USA;116.0
+;United States;USA;164.0
+;United States;USA;120.0
+;United States;USA;119.0
+;United States;USA;135.0
+;United States;USA;171.0
+;United States;USA;235.0
+;United States;USA;138.0
+;United States;USA;114.0
+;United States;USA;208.0
+;United States;USA;179.0
+;United States;USA;69.0
+;United States;USA;79.0
+;United States;USA;150.0
+;United States;USA;112.0
+;United States;USA;128.0
+;United States;USA;126.0
+;United States;USA;204.0
+;United States;USA;129.0
+;United States;USA;153.0
+;United States;USA;186.0
+;United States;USA;151.0
+;United States;USA;134.0
+;United States;USA;113.0
+;China;CHN;86.0
+;China;CHN;134.0
+;Korea, Republic of;KOR;152.0
+;China;CHN;111.0
+;Hong Kong;HKG;80.0
+;Taiwan, Province of China;TWN;101.0
+;United States;USA;154.0
+;China;CHN;106.0
+;Taiwan, Province of China;TWN;127.0
+;Australia;AUS;150.0
+;China;CHN;87.0
+;China;CHN;114.0
+;China;CHN;236.0
+;China;CHN;82.0
+;Taiwan, Province of China;TWN;116.0
+;China;CHN;91.0
+;China;CHN;126.0
+;Japan;JPN;137.0
+;Japan;JPN;168.0
+;Korea, Republic of;KOR;138.0
+;Turkey;TUR;213.0
+;Italy;ITA;108.0
+;Germany;DEU;148.0
+;Germany;DEU;88.0
+;Spain;ESP;118.0
+;Spain;ESP;324.0
+;Spain;ESP;144.0
+;Netherlands;NLD;179.0
+;Netherlands;NLD;148.0
+;Netherlands;NLD;213.0
+;Netherlands;NLD;201.0
+;Netherlands;NLD;141.0
+;Belgium;BEL;182.0
+;Netherlands;NLD;94.0
+;Belgium;BEL;115.0
+;Netherlands;NLD;187.0
+;Belgium;BEL;103.0
+;United Kingdom;GBR;142.0
+;Germany;DEU;146.0
+;Spain;ESP;182.0
+;Spain;ESP;151.0
+;Spain;ESP;178.0
+;Spain;ESP;138.0
+;Norway;NOR;170.0
+;Italy;ITA;177.0
+;Italy;ITA;192.0
+;Italy;ITA;179.0
+;Italy;ITA;157.0
+;Italy;ITA;126.0
+;Italy;ITA;152.0
+;Italy;ITA;84.0
+;Netherlands;NLD;225.0
+;Netherlands;NLD;167.0
+;Egypt;EGY;107.0
+;Egypt;EGY;191.0
+;United Kingdom;GBR;147.0
+;Belgium;BEL;140.0
+;Belgium;BEL;101.0
+;Switzerland;CHE;138.0
+;United Kingdom;GBR;115.0
+;United Kingdom;GBR;120.0
+;Germany;DEU;185.0
+;United States;USA;95.0
+;Canada;CAN;126.0
+;United States;USA;102.0
+;United States;USA;94.0
+;United States;USA;89.0
+;Canada;CAN;88.0
+;United States;USA;105.0
+;Canada;CAN;134.0
+;United States;USA;116.0
+;United States;USA;83.0
+;United States;USA;81.0
+;United States;USA;123.0
+;Canada;CAN;137.0
+;United States;USA;184.0
+;United States;USA;196.0
+;United States;USA;94.0
+;United States;USA;101.0
+;United States;USA;171.0
+;United States;USA;149.0
+;United States;USA;120.0
+;United States;USA;88.0
+;United States;USA;94.0
+;Russian Federation;RUS;96.0
+;Iran, Islamic Republic of;IRN;176.0
+;Iran, Islamic Republic of;IRN;145.0
+;Iran, Islamic Republic of;IRN;194.0
+;Iran, Islamic Republic of;IRN;170.0
+;Lebanon;LBN;196.0
+;Lebanon;LBN;80.0
+;Italy;ITA;105.0
+;Italy;ITA;198.0
+;Italy;ITA;135.0
+;Italy;ITA;209.0
+;Bahrain;BHR;107.0
+;Bulgaria;BGR;147.0
+;France;FRA;148.0
+;Russian Federation;RUS;142.0
+;Norway;NOR;124.0
+;Poland;POL;132.0
+;Poland;POL;150.0
+;Poland;POL;177.0
+;Spain;ESP;175.0
+;Spain;ESP;118.0
+;Spain;ESP;160.0
+;Spain;ESP;121.0
+;Spain;ESP;126.0
+;Spain;ESP;176.0
+;Bosnia and Herzegovina;BIH;163.0
+;Italy;ITA;147.0
+;Italy;ITA;182.0
+;Sweden;SWE;149.0
+;Georgia;GEO;124.0
+;Austria;AUT;165.0
+;Italy;ITA;147.0
+;United Kingdom;GBR;177.0
+;Denmark;DNK;143.0
+;Sweden;SWE;225.0
+;Hungary;HUN;166.0
+;Ukraine;UKR;177.0
+;Ukraine;UKR;97.0
+;Germany;DEU;172.0
+;Azerbaijan;AZE;205.0
+;United Kingdom;GBR;148.0
+;United Kingdom;GBR;106.0
+;Tajikistan;TJK;209.0
+;Italy;ITA;117.0
+;Russian Federation;RUS;175.0
+;Sweden;SWE;104.0
+;Austria;AUT;169.0
+;Germany;DEU;188.0
+;Cyprus;CYP;152.0
+;Russian Federation;RUS;81.0
+;Russian Federation;RUS;204.0
+;Russian Federation;RUS;127.0
+;Lebanon;LBN;175.0
+;United Kingdom;GBR;169.0
+;Spain;ESP;116.0
+;Bulgaria;BGR;116.0
+;Russian Federation;RUS;107.0
+;Russian Federation;RUS;149.0
+;Russian Federation;RUS;146.0
+;Ukraine;UKR;94.0
+;Russian Federation;RUS;87.0
+;Croatia;HRV;172.0
+;Czech Republic;CZE;115.0
+;Czech Republic;CZE;179.0
+;Czech Republic;CZE;165.0
+;Czech Republic;CZE;132.0
+;Czech Republic;CZE;103.0
+;Czech Republic;CZE;141.0
+;Czech Republic;CZE;186.0
+;Czech Republic;CZE;204.0
+;Czech Republic;CZE;106.0
+;Czech Republic;CZE;248.0
+;Czech Republic;CZE;126.0
+;Czech Republic;CZE;149.0
+;Czech Republic;CZE;204.0
+;Czech Republic;CZE;144.0
+;Czech Republic;CZE;99.0
+;Czech Republic;CZE;163.0
+;Czech Republic;CZE;160.0
+;Czech Republic;CZE;167.0
+;Czech Republic;CZE;179.0
+;Czech Republic;CZE;90.0
+;Czech Republic;CZE;99.0
+;Czech Republic;CZE;179.0
+;Czech Republic;CZE;194.0
+;Lithuania;LTU;116.0
+;Sweden;SWE;222.0
+;United Kingdom;GBR;124.0
+;Russian Federation;RUS;79.0
+;France;FRA;187.0
+;Romania;ROU;242.0
+;United Kingdom;GBR;151.0
+;United Kingdom;GBR;142.0
+;Turkey;TUR;187.0
+;Turkey;TUR;134.0
+;Turkey;TUR;132.0
+;Bulgaria;BGR;150.0
+;Bulgaria;BGR;187.0
+;Bulgaria;BGR;175.0
+;Bulgaria;BGR;114.0
+;Bulgaria;BGR;101.0
+;Poland;POL;152.0
+;Poland;POL;119.0
+;Ukraine;UKR;172.0
+;Ukraine;UKR;146.0
+;Ukraine;UKR;95.0
+;Ukraine;UKR;117.0
+;Ireland;IRL;118.0
+;Ireland;IRL;172.0
+;Ireland;IRL;185.0
+;Spain;ESP;182.0
+;Spain;ESP;86.0
+;Spain;ESP;177.0
+;Spain;ESP;133.0
+;Spain;ESP;173.0
+;Spain;ESP;193.0
+;Spain;ESP;139.0
+;Norway;NOR;136.0
+;Norway;NOR;321.0
+;Norway;NOR;117.0
+;Norway;NOR;152.0
+;Norway;NOR;174.0
+;Norway;NOR;275.0
+;Norway;NOR;182.0
+;Norway;NOR;138.0
+;Norway;NOR;108.0
+;Norway;NOR;138.0
+;Norway;NOR;140.0
+;Norway;NOR;114.0
+;Norway;NOR;77.0
+;Norway;NOR;135.0
+;Norway;NOR;120.0
+;Norway;NOR;182.0
+;Norway;NOR;192.0
+;Poland;POL;140.0
+;Poland;POL;133.0
+;Poland;POL;84.0
+;Poland;POL;197.0
+;Spain;ESP;94.0
+;Spain;ESP;148.0
+;Spain;ESP;162.0
+;Poland;POL;186.0
+;Poland;POL;142.0
+;Poland;POL;118.0
+;Poland;POL;163.0
+;Poland;POL;172.0
+;Poland;POL;98.0
+;Poland;POL;95.0
+;Poland;POL;106.0
+;Poland;POL;154.0
+;Poland;POL;157.0
+;Poland;POL;188.0
+;Poland;POL;225.0
+;Poland;POL;176.0
+;Poland;POL;177.0
+;Poland;POL;91.0
+;Poland;POL;130.0
+;Russian Federation;RUS;178.0
+;Russian Federation;RUS;143.0
+;Russian Federation;RUS;107.0
+;Russian Federation;RUS;199.0
+;Russian Federation;RUS;177.0
+;Russian Federation;RUS;234.0
+;Russian Federation;RUS;172.0
+;Russian Federation;RUS;134.0
+;Russian Federation;RUS;198.0
+;Russian Federation;RUS;138.0
+;Russian Federation;RUS;148.0
+;Greece;GRC;125.0
+;Greece;GRC;134.0
+;Greece;GRC;178.0
+;Greece;GRC;195.0
+;Greece;GRC;183.0
+;Greece;GRC;128.0
+;Greece;GRC;126.0
+;Greece;GRC;203.0
+;Greece;GRC;109.0
+;Greece;GRC;115.0
+;Greece;GRC;119.0
+;Greece;GRC;115.0
+;Greece;GRC;118.0
+;Portugal;PRT;227.0
+;Portugal;PRT;103.0
+;Portugal;PRT;150.0
+;Portugal;PRT;152.0
+;Portugal;PRT;150.0
+;Portugal;PRT;193.0
+;Portugal;PRT;141.0
+;Portugal;PRT;168.0
+;Portugal;PRT;203.0
+;Portugal;PRT;115.0
+;Portugal;PRT;117.0
+;Portugal;PRT;160.0
+;Portugal;PRT;99.0
+;Portugal;PRT;113.0
+;Portugal;PRT;94.0
+;Saudi Arabia;SAU;197.0
+;Russian Federation;RUS;92.0
+;Germany;DEU;126.0
+;Saudi Arabia;SAU;214.0
+;Belgium;BEL;101.0
+;United Kingdom;GBR;121.0
+;Netherlands;NLD;153.0
+;Belarus;BLR;152.0
+;Russian Federation;RUS;141.0
+;Moldova, Republic of;MDA;144.0
+;Poland;POL;179.0
+;Italy;ITA;103.0
+;Russian Federation;RUS;123.0
+;Germany;DEU;107.0
+;Finland;FIN;121.0
+;Bahrain;BHR;146.0
+;Russian Federation;RUS;121.0
+;Russian Federation;RUS;177.0
+;Saudi Arabia;SAU;164.0
+;Saudi Arabia;SAU;150.0
+;Hungary;HUN;137.0
+;Hungary;HUN;93.0
+;Poland;POL;125.0
+;Poland;POL;139.0
+;Poland;POL;179.0
+;Poland;POL;180.0
+;Poland;POL;146.0
+;Poland;POL;148.0
+;Russian Federation;RUS;142.0
+;Russian Federation;RUS;163.0
+;United Kingdom;GBR;181.0
+;United Kingdom;GBR;143.0
+;United Kingdom;GBR;255.0
+;Jordan;JOR;186.0
+;Russian Federation;RUS;136.0
+;Russian Federation;RUS;133.0
+;Austria;AUT;131.0
+;Russian Federation;RUS;82.0
+;France;FRA;142.0
+;Russian Federation;RUS;104.0
+;Poland;POL;158.0
+;Poland;POL;109.0
+;Germany;DEU;138.0
+;Spain;ESP;171.0
+;United Kingdom;GBR;192.0
+;United Kingdom;GBR;90.0
+;United Kingdom;GBR;180.0
+;United Kingdom;GBR;217.0
+;United Kingdom;GBR;152.0
+;United Kingdom;GBR;121.0
+;United Kingdom;GBR;137.0
+;United Kingdom;GBR;178.0
+;United Kingdom;GBR;128.0
+;United Kingdom;GBR;151.0
+;United Kingdom;GBR;151.0
+;United Kingdom;GBR;98.0
+;United Kingdom;GBR;152.0
+;United Kingdom;GBR;120.0
+;United Kingdom;GBR;106.0
+;United Kingdom;GBR;151.0
+;United Kingdom;GBR;91.0
+;United Kingdom;GBR;179.0
+;United Kingdom;GBR;115.0
+;United Kingdom;GBR;153.0
+;United Kingdom;GBR;177.0
+;United Kingdom;GBR;177.0
+;United Kingdom;GBR;134.0
+;United Kingdom;GBR;178.0
+;United Kingdom;GBR;115.0
+;United Kingdom;GBR;185.0
+;United Kingdom;GBR;79.0
+;United Kingdom;GBR;100.0
+;United Kingdom;GBR;95.0
+;United Kingdom;GBR;131.0
+;United Kingdom;GBR;110.0
+;United Kingdom;GBR;127.0
+;United Kingdom;GBR;157.0
+;United Kingdom;GBR;164.0
+;United Kingdom;GBR;157.0
+;United Kingdom;GBR;79.0
+;United Kingdom;GBR;219.0
+;United Kingdom;GBR;116.0
+;United Kingdom;GBR;173.0
+;United Kingdom;GBR;175.0
+;Poland;POL;217.0
+;Poland;POL;200.0
+;Poland;POL;115.0
+;Poland;POL;165.0
+;Poland;POL;169.0
+;Poland;POL;116.0
+;Poland;POL;126.0
+;Poland;POL;205.0
+;Poland;POL;154.0
+;Poland;POL;115.0
+;Mauritius;MUS;116.0
+;Switzerland;CHE;131.0
+;Guernsey;GGY;182.0
+;France;FRA;228.0
+;France;FRA;240.0
+;Saudi Arabia;SAU;193.0
+;Switzerland;CHE;194.0
+;Finland;FIN;171.0
+;Finland;FIN;121.0
+;Germany;DEU;119.0
+;Austria;AUT;142.0
+;Italy;ITA;120.0
+;Italy;ITA;132.0
+;Italy;ITA;176.0
+;Italy;ITA;146.0
+;Italy;ITA;89.0
+;Italy;ITA;135.0
+;Italy;ITA;120.0
+;Italy;ITA;148.0
+;France;FRA;146.0
+;France;FRA;146.0
+;France;FRA;188.0
+;France;FRA;91.0
+;France;FRA;107.0
+;France;FRA;121.0
+;France;FRA;165.0
+;France;FRA;169.0
+;France;FRA;179.0
+;France;FRA;185.0
+;France;FRA;127.0
+;France;FRA;119.0
+;France;FRA;108.0
+;France;FRA;166.0
+;France;FRA;189.0
+;France;FRA;125.0
+;United Kingdom;GBR;114.0
+;Czech Republic;CZE;171.0
+;Czech Republic;CZE;206.0
+;United Kingdom;GBR;192.0
+;United Kingdom;GBR;168.0
+;United Kingdom;GBR;150.0
+;United Kingdom;GBR;117.0
+;United Kingdom;GBR;130.0
+;United Kingdom;GBR;174.0
+;Germany;DEU;125.0
+;Turkey;TUR;264.0
+;Switzerland;CHE;191.0
+;Switzerland;CHE;164.0
+;Iceland;ISL;104.0
+;Iceland;ISL;135.0
+;Iceland;ISL;147.0
+;Iceland;ISL;107.0
+;Iceland;ISL;231.0
+;Iceland;ISL;85.0
+;Iceland;ISL;177.0
+;Iceland;ISL;175.0
+;Iceland;ISL;222.0
+;Iceland;ISL;146.0
+;Iceland;ISL;268.0
+;Iceland;ISL;91.0
+;Iceland;ISL;143.0
+;Iceland;ISL;177.0
+;Iceland;ISL;147.0
+;Iceland;ISL;134.0
+;Iceland;ISL;176.0
+;Iceland;ISL;126.0
+;Iceland;ISL;83.0
+;Iceland;ISL;137.0
+;Poland;POL;126.0
+;Italy;ITA;213.0
+;Czech Republic;CZE;177.0
+;Russian Federation;RUS;174.0
+;Russian Federation;RUS;164.0
+;Spain;ESP;101.0
+;Spain;ESP;150.0
+;Spain;ESP;147.0
+;Spain;ESP;169.0
+;Spain;ESP;190.0
+;Spain;ESP;84.0
+;Spain;ESP;179.0
+;Spain;ESP;136.0
+;France;FRA;172.0
+;France;FRA;137.0
+;France;FRA;127.0
+;France;FRA;206.0
+;France;FRA;179.0
+;France;FRA;207.0
+;France;FRA;132.0
+;France;FRA;148.0
+;France;FRA;76.0
+;France;FRA;135.0
+;France;FRA;127.0
+;France;FRA;140.0
+;France;FRA;123.0
+;France;FRA;188.0
+;France;FRA;126.0
+;France;FRA;105.0
+;France;FRA;149.0
+;France;FRA;115.0
+;France;FRA;185.0
+;France;FRA;179.0
+;France;FRA;105.0
+;France;FRA;83.0
+;France;FRA;154.0
+;France;FRA;180.0
+;France;FRA;97.0
+;France;FRA;177.0
+;France;FRA;148.0
+;France;FRA;176.0
+;France;FRA;116.0
+;France;FRA;184.0
+;France;FRA;148.0
+;France;FRA;108.0
+;France;FRA;147.0
+;France;FRA;185.0
+;France;FRA;157.0
+;France;FRA;127.0
+;France;FRA;139.0
+;France;FRA;122.0
+;France;FRA;150.0
+;France;FRA;86.0
+;France;FRA;224.0
+;France;FRA;117.0
+;France;FRA;154.0
+;France;FRA;99.0
+;France;FRA;109.0
+;France;FRA;152.0
+;France;FRA;85.0
+;France;FRA;159.0
+;France;FRA;101.0
+;France;FRA;126.0
+;France;FRA;189.0
+;France;FRA;199.0
+;France;FRA;148.0
+;France;FRA;156.0
+;France;FRA;176.0
+;France;FRA;152.0
+;France;FRA;151.0
+;France;FRA;95.0
+;France;FRA;155.0
+;Netherlands;NLD;114.0
+;Netherlands;NLD;146.0
+;Netherlands;NLD;181.0
+;Netherlands;NLD;113.0
+;Netherlands;NLD;136.0
+;Netherlands;NLD;171.0
+;Netherlands;NLD;109.0
+;Netherlands;NLD;126.0
+;Netherlands;NLD;188.0
+;Netherlands;NLD;88.0
+;Spain;ESP;134.0
+;Spain;ESP;206.0
+;Spain;ESP;176.0
+;Spain;ESP;178.0
+;Switzerland;CHE;110.0
+;Switzerland;CHE;186.0
+;Switzerland;CHE;148.0
+;United Kingdom;GBR;158.0
+;United Kingdom;GBR;193.0
+;United Kingdom;GBR;112.0
+;United Kingdom;GBR;125.0
+;United Kingdom;GBR;103.0
+;United Kingdom;GBR;110.0
+;United Kingdom;GBR;161.0
+;United Kingdom;GBR;116.0
+;United Kingdom;GBR;132.0
+;United Kingdom;GBR;139.0
+;United Kingdom;GBR;119.0
+;United Kingdom;GBR;133.0
+;United Kingdom;GBR;143.0
+;United Kingdom;GBR;113.0
+;United Kingdom;GBR;101.0
+;United Kingdom;GBR;119.0
+;United Kingdom;GBR;134.0
+;United Kingdom;GBR;86.0
+;Germany;DEU;183.0
+;Israel;ISR;152.0
+;Israel;ISR;150.0
+;Israel;ISR;119.0
+;Israel;ISR;118.0
+;Israel;ISR;74.0
+;Israel;ISR;118.0
+;Russian Federation;RUS;154.0
+;Russian Federation;RUS;132.0
+;Austria;AUT;119.0
+;Austria;AUT;149.0
+;Austria;AUT;147.0
+;Austria;AUT;114.0
+;Israel;ISR;172.0
+;Israel;ISR;146.0
+;Israel;ISR;101.0
+;Israel;ISR;106.0
+;Israel;ISR;186.0
+;Israel;ISR;99.0
+;Israel;ISR;167.0
+;Poland;POL;127.0
+;Poland;POL;182.0
+;Netherlands;NLD;169.0
+;Netherlands;NLD;176.0
+;Turkey;TUR;126.0
+;Turkey;TUR;149.0
+;Bulgaria;BGR;147.0
+;United Kingdom;GBR;153.0
+;Netherlands;NLD;143.0
+;Netherlands;NLD;183.0
+;Netherlands;NLD;180.0
+;Netherlands;NLD;80.0
+;Netherlands;NLD;177.0
+;Netherlands;NLD;216.0
+;Netherlands;NLD;163.0
+;Netherlands;NLD;149.0
+;Netherlands;NLD;252.0
+;Netherlands;NLD;129.0
+;Netherlands;NLD;89.0
+;Netherlands;NLD;190.0
+;Netherlands;NLD;112.0
+;Netherlands;NLD;142.0
+;Netherlands;NLD;177.0
+;Netherlands;NLD;99.0
+;Netherlands;NLD;143.0
+;Netherlands;NLD;115.0
+;Oman;OMN;185.0
+;France;FRA;240.0
+;Spain;ESP;98.0
+;Spain;ESP;175.0
+;Spain;ESP;150.0
+;Spain;ESP;111.0
+;Spain;ESP;192.0
+;Spain;ESP;175.0
+;Spain;ESP;177.0
+;Spain;ESP;175.0
+;Spain;ESP;174.0
+;Spain;ESP;135.0
+;Spain;ESP;164.0
+;Spain;ESP;116.0
+;Spain;ESP;175.0
+;Spain;ESP;266.0
+;Spain;ESP;121.0
+;Spain;ESP;147.0
+;Spain;ESP;144.0
+;Spain;ESP;107.0
+;Spain;ESP;98.0
+;Spain;ESP;178.0
+;Spain;ESP;237.0
+;Spain;ESP;238.0
+;Spain;ESP;177.0
+;Spain;ESP;104.0
+;Spain;ESP;182.0
+;Spain;ESP;154.0
+;Spain;ESP;182.0
+;Spain;ESP;121.0
+;Spain;ESP;283.0
+;Spain;ESP;176.0
+;Spain;ESP;213.0
+;Spain;ESP;143.0
+;Spain;ESP;152.0
+;Spain;ESP;125.0
+;Spain;ESP;192.0
+;Spain;ESP;123.0
+;Spain;ESP;172.0
+;Spain;ESP;157.0
+;Spain;ESP;214.0
+;Spain;ESP;188.0
+;Spain;ESP;129.0
+;Spain;ESP;149.0
+;Spain;ESP;106.0
+;Spain;ESP;179.0
+;Spain;ESP;87.0
+;Spain;ESP;164.0
+;Spain;ESP;118.0
+;Spain;ESP;129.0
+;Spain;ESP;180.0
+;Spain;ESP;217.0
+;Spain;ESP;164.0
+;Spain;ESP;148.0
+;Spain;ESP;178.0
+;Spain;ESP;80.0
+;Spain;ESP;194.0
+;Spain;ESP;151.0
+;Spain;ESP;164.0
+;Spain;ESP;164.0
+;Spain;ESP;175.0
+;Spain;ESP;119.0
+;Spain;ESP;129.0
+;Spain;ESP;120.0
+;Spain;ESP;212.0
+;Spain;ESP;187.0
+;Spain;ESP;177.0
+;Spain;ESP;94.0
+;Spain;ESP;88.0
+;Spain;ESP;85.0
+;Spain;ESP;90.0
+;Spain;ESP;177.0
+;Spain;ESP;92.0
+;Spain;ESP;83.0
+;Spain;ESP;176.0
+;Spain;ESP;162.0
+;Spain;ESP;157.0
+;Spain;ESP;158.0
+;Spain;ESP;175.0
+;Spain;ESP;197.0
+;Spain;ESP;249.0
+;Spain;ESP;136.0
+;Spain;ESP;85.0
+;Spain;ESP;116.0
+;Spain;ESP;106.0
+;Spain;ESP;141.0
+;Spain;ESP;143.0
+;Spain;ESP;118.0
+;Spain;ESP;95.0
+;Spain;ESP;138.0
+;Spain;ESP;179.0
+;Spain;ESP;139.0
+;Spain;ESP;183.0
+;Spain;ESP;149.0
+;Spain;ESP;127.0
+;Spain;ESP;142.0
+;Spain;ESP;150.0
+;Spain;ESP;179.0
+;Spain;ESP;213.0
+;Spain;ESP;173.0
+;Spain;ESP;112.0
+;Spain;ESP;131.0
+;Spain;ESP;127.0
+;Spain;ESP;177.0
+;Spain;ESP;101.0
+;Spain;ESP;120.0
+;Spain;ESP;150.0
+;Spain;ESP;198.0
+;Spain;ESP;150.0
+;Spain;ESP;122.0
+;Spain;ESP;139.0
+;Spain;ESP;211.0
+;Spain;ESP;428.0
+;Spain;ESP;154.0
+;Spain;ESP;182.0
+;Spain;ESP;208.0
+;Spain;ESP;280.0
+;Spain;ESP;164.0
+;Spain;ESP;213.0
+;Spain;ESP;249.0
+;Austria;AUT;160.0
+;Austria;AUT;162.0
+;Austria;AUT;149.0
+;Austria;AUT;179.0
+;Austria;AUT;127.0
+;Austria;AUT;148.0
+;Austria;AUT;138.0
+;Austria;AUT;151.0
+;Austria;AUT;177.0
+;Austria;AUT;128.0
+;Austria;AUT;154.0
+;Turkey;TUR;128.0
+;Turkey;TUR;177.0
+;Turkey;TUR;102.0
+;Turkey;TUR;141.0
+;Turkey;TUR;106.0
+;Turkey;TUR;185.0
+;Turkey;TUR;83.0
+;Turkey;TUR;150.0
+;United Kingdom;GBR;178.0
+;United Kingdom;GBR;154.0
+;United Kingdom;GBR;148.0
+;United Kingdom;GBR;79.0
+;United Kingdom;GBR;124.0
+;United Kingdom;GBR;101.0
+;United Kingdom;GBR;86.0
+;Russian Federation;RUS;104.0
+;Poland;POL;116.0
+;Poland;POL;195.0
+;Austria;AUT;110.0
+;Austria;AUT;146.0
+;Switzerland;CHE;170.0
+;Switzerland;CHE;114.0
+;Switzerland;CHE;157.0
+;Sweden;SWE;158.0
+;Sweden;SWE;158.0
+;Sweden;SWE;113.0
+;Russian Federation;RUS;179.0
+;Uzbekistan;UZB;108.0
+;Russian Federation;RUS;164.0
+;Ireland;IRL;147.0
+;Ireland;IRL;147.0
+;Ireland;IRL;108.0
+;Ireland;IRL;103.0
+;Ireland;IRL;145.0
+;Ireland;IRL;225.0
+;Ireland;IRL;201.0
+;Ireland;IRL;151.0
+;Ireland;IRL;201.0
+;Ireland;IRL;101.0
+;Ireland;IRL;83.0
+;Ireland;IRL;81.0
+;Ireland;IRL;150.0
+;Ireland;IRL;176.0
+;Ireland;IRL;229.0
+;Ireland;IRL;160.0
+;Ireland;IRL;186.0
+;Ireland;IRL;152.0
+;Ireland;IRL;118.0
+;Ireland;IRL;147.0
+;Ireland;IRL;162.0
+;Ireland;IRL;103.0
+;Ireland;IRL;101.0
+;Ireland;IRL;147.0
+;Denmark;DNK;203.0
+;Denmark;DNK;126.0
+;Denmark;DNK;116.0
+;Denmark;DNK;124.0
+;Denmark;DNK;223.0
+;Denmark;DNK;112.0
+;Denmark;DNK;149.0
+;Denmark;DNK;136.0
+;Denmark;DNK;96.0
+;Denmark;DNK;136.0
+;Denmark;DNK;101.0
+;Denmark;DNK;152.0
+;Denmark;DNK;103.0
+;Denmark;DNK;139.0
+;Denmark;DNK;142.0
+;Denmark;DNK;101.0
+;Denmark;DNK;102.0
+;Denmark;DNK;145.0
+;Denmark;DNK;155.0
+;Denmark;DNK;177.0
+;Denmark;DNK;109.0
+;Denmark;DNK;91.0
+;Denmark;DNK;114.0
+;Denmark;DNK;146.0
+;Denmark;DNK;161.0
+;Denmark;DNK;83.0
+;Denmark;DNK;117.0
+;Denmark;DNK;132.0
+;Denmark;DNK;135.0
+;Denmark;DNK;134.0
+;Denmark;DNK;117.0
+;Switzerland;CHE;145.0
+;Switzerland;CHE;179.0
+;Switzerland;CHE;109.0
+;Switzerland;CHE;120.0
+;Switzerland;CHE;123.0
+;Switzerland;CHE;144.0
+;Switzerland;CHE;198.0
+;Switzerland;CHE;178.0
+;Switzerland;CHE;197.0
+;Switzerland;CHE;107.0
+;Switzerland;CHE;193.0
+;Switzerland;CHE;149.0
+;Switzerland;CHE;172.0
+;Switzerland;CHE;158.0
+;Switzerland;CHE;149.0
+;France;FRA;107.0
+;France;FRA;189.0
+;France;FRA;97.0
+;France;FRA;190.0
+;France;FRA;145.0
+;France;FRA;131.0
+;Estonia;EST;95.0
+;Estonia;EST;178.0
+;Estonia;EST;123.0
+;Sweden;SWE;118.0
+;Sweden;SWE;136.0
+;Sweden;SWE;186.0
+;Sweden;SWE;178.0
+;Lithuania;LTU;76.0
+;Lithuania;LTU;105.0
+;Lithuania;LTU;201.0
+;Lithuania;LTU;157.0
+;Lithuania;LTU;210.0
+;Switzerland;CHE;109.0
+;Switzerland;CHE;110.0
+;Switzerland;CHE;101.0
+;Switzerland;CHE;229.0
+;Germany;DEU;72.0
+;Germany;DEU;127.0
+;Sweden;SWE;123.0
+;France;FRA;220.0
+;France;FRA;189.0
+;France;FRA;184.0
+;France;FRA;203.0
+;Portugal;PRT;273.0
+;United Kingdom;GBR;115.0
+;United Kingdom;GBR;190.0
+;United Kingdom;GBR;80.0
+;United Kingdom;GBR;160.0
+;United Kingdom;GBR;173.0
+;United Kingdom;GBR;184.0
+;United Kingdom;GBR;183.0
+;United Kingdom;GBR;187.0
+;United Kingdom;GBR;121.0
+;United Kingdom;GBR;206.0
+;United Kingdom;GBR;111.0
+;United Kingdom;GBR;118.0
+;United Kingdom;GBR;115.0
+;United Kingdom;GBR;167.0
+;United Kingdom;GBR;157.0
+;United Kingdom;GBR;208.0
+;United Kingdom;GBR;198.0
+;United Kingdom;GBR;118.0
+;United Kingdom;GBR;119.0
+;United Kingdom;GBR;186.0
+;United Kingdom;GBR;88.0
+;United Kingdom;GBR;226.0
+;United Kingdom;GBR;192.0
+;United Kingdom;GBR;214.0
+;United Kingdom;GBR;176.0
+;United Kingdom;GBR;199.0
+;United Kingdom;GBR;79.0
+;United Kingdom;GBR;95.0
+;United Kingdom;GBR;164.0
+;United Kingdom;GBR;128.0
+;United Kingdom;GBR;183.0
+;United Kingdom;GBR;121.0
+;United Kingdom;GBR;156.0
+;United Kingdom;GBR;107.0
+;United Kingdom;GBR;108.0
+;United Kingdom;GBR;243.0
+;United Kingdom;GBR;286.0
+;United Kingdom;GBR;98.0
+;United Kingdom;GBR;129.0
+;United Kingdom;GBR;121.0
+;United Kingdom;GBR;128.0
+;United Kingdom;GBR;155.0
+;United Kingdom;GBR;182.0
+;United Kingdom;GBR;181.0
+;Israel;ISR;113.0
+;Israel;ISR;101.0
+;Israel;ISR;139.0
+;Israel;ISR;210.0
+;Israel;ISR;117.0
+;Israel;ISR;157.0
+;Israel;ISR;175.0
+;Israel;ISR;121.0
+;Israel;ISR;93.0
+;Israel;ISR;142.0
+;Israel;ISR;132.0
+;Israel;ISR;167.0
+;Israel;ISR;160.0
+;Spain;ESP;183.0
+;Germany;DEU;204.0
+;Germany;DEU;230.0
+;Germany;DEU;110.0
+;Germany;DEU;106.0
+;Germany;DEU;96.0
+;Germany;DEU;176.0
+;Germany;DEU;180.0
+;Germany;DEU;129.0
+;Germany;DEU;127.0
+;Germany;DEU;122.0
+;Germany;DEU;118.0
+;Germany;DEU;101.0
+;Germany;DEU;117.0
+;Germany;DEU;180.0
+;Germany;DEU;148.0
+;Germany;DEU;130.0
+;Germany;DEU;177.0
+;Germany;DEU;84.0
+;Germany;DEU;107.0
+;Germany;DEU;104.0
+;Germany;DEU;123.0
+;Germany;DEU;135.0
+;Germany;DEU;102.0
+;Germany;DEU;162.0
+;Germany;DEU;98.0
+;Germany;DEU;147.0
+;Germany;DEU;146.0
+;Germany;DEU;101.0
+;Germany;DEU;184.0
+;Germany;DEU;116.0
+;Germany;DEU;91.0
+;Germany;DEU;135.0
+;Germany;DEU;168.0
+;Germany;DEU;134.0
+;Germany;DEU;175.0
+;Germany;DEU;108.0
+;Germany;DEU;123.0
+;Germany;DEU;292.0
+;Germany;DEU;84.0
+;Germany;DEU;119.0
+;Germany;DEU;153.0
+;Germany;DEU;128.0
+;Germany;DEU;154.0
+;Germany;DEU;115.0
+;Germany;DEU;136.0
+;Germany;DEU;168.0
+;Germany;DEU;137.0
+;Germany;DEU;116.0
+;Germany;DEU;211.0
+;Germany;DEU;149.0
+;Germany;DEU;170.0
+;Germany;DEU;173.0
+;Germany;DEU;147.0
+;Germany;DEU;104.0
+;Germany;DEU;237.0
+;Germany;DEU;132.0
+;Germany;DEU;137.0
+;Germany;DEU;121.0
+;Germany;DEU;111.0
+;Germany;DEU;124.0
+;Germany;DEU;106.0
+;Germany;DEU;103.0
+;Germany;DEU;162.0
+;Germany;DEU;148.0
+;Germany;DEU;181.0
+;Germany;DEU;214.0
+;Germany;DEU;172.0
+;Germany;DEU;161.0
+;Norway;NOR;197.0
+;Norway;NOR;127.0
+;Finland;FIN;181.0
+;Bulgaria;BGR;189.0
+;Bulgaria;BGR;173.0
+;spain;ES;103.0
+;Spain;ESP;191.0
+;Spain;ESP;133.0
+;Spain;ESP;169.0
+;Spain;ESP;122.0
+;Spain;ESP;85.0
+;Spain;ESP;121.0
+;Spain;ESP;132.0
+;Spain;ESP;156.0
+;Israel;ISR;162.0
+;Israel;ISR;119.0
+;Israel;ISR;127.0
+;Israel;ISR;125.0
+;Israel;ISR;101.0
+;Israel;ISR;192.0
+;Israel;ISR;152.0
+;Israel;ISR;139.0
+;Israel;ISR;128.0
+;Israel;ISR;83.0
+;Israel;ISR;177.0
+;Israel;ISR;202.0
+;Hungary;HUN;137.0
+;Hungary;HUN;101.0
+;Hungary;HUN;83.0
+;Hungary;HUN;208.0
+;Hungary;HUN;180.0
+;Hungary;HUN;177.0
+;Hungary;HUN;136.0
+;Hungary;HUN;175.0
+;Hungary;HUN;120.0
+;Hungary;HUN;118.0
+;Hungary;HUN;146.0
+;Hungary;HUN;119.0
+;Hungary;HUN;85.0
+;France;FRA;173.0
+;France;FRA;168.0
+;France;FRA;160.0
+;France;FRA;110.0
+;France;FRA;125.0
+;France;FRA;87.0
+;France;FRA;134.0
+;France;FRA;191.0
+;France;FRA;177.0
+;France;FRA;183.0
+;France;FRA;182.0
+;France;FRA;132.0
+;France;FRA;95.0
+;France;FRA;138.0
+;France;FRA;185.0
+;France;FRA;184.0
+;France;FRA;160.0
+;France;FRA;95.0
+;France;FRA;185.0
+;Czech Republic;CZE;192.0
+;Czech Republic;CZE;177.0
+;Czech Republic;CZE;111.0
+;Czech Republic;CZE;185.0
+;Czech Republic;CZE;115.0
+;Czech Republic;CZE;146.0
+;Czech Republic;CZE;98.0
+;Czech Republic;CZE;132.0
+;Czech Republic;CZE;224.0
+;Greece;GRC;104.0
+;Greece;GRC;101.0
+;Greece;GRC;167.0
+;Greece;GRC;127.0
+;Greece;GRC;127.0
+;Greece;GRC;218.0
+;Greece;GRC;135.0
+;Greece;GRC;137.0
+;Greece;GRC;218.0
+;Greece;GRC;179.0
+;Greece;GRC;238.0
+;Greece;GRC;155.0
+;Greece;GRC;98.0
+;Greece;GRC;123.0
+;Greece;GRC;231.0
+;Greece;GRC;180.0
+;Greece;GRC;163.0
+;Greece;GRC;103.0
+;Greece;GRC;125.0
+;Greece;GRC;120.0
+;Greece;GRC;106.0
+;Greece;GRC;120.0
+;Greece;GRC;109.0
+;Greece;GRC;169.0
+;Finland;FIN;183.0
+;Finland;FIN;101.0
+;Finland;FIN;181.0
+;Finland;FIN;154.0
+;Finland;FIN;94.0
+;Finland;FIN;122.0
+;Finland;FIN;121.0
+;Finland;FIN;114.0
+;Finland;FIN;97.0
+;Finland;FIN;164.0
+;Finland;FIN;185.0
+;Finland;FIN;115.0
+;Finland;FIN;231.0
+;Finland;FIN;155.0
+;Turkey;TUR;123.0
+;Turkey;TUR;181.0
+;Turkey;TUR;115.0
+;Turkey;TUR;105.0
+;Turkey;TUR;233.0
+;Turkey;TUR;177.0
+;Turkey;TUR;105.0
+;Turkey;TUR;171.0
+;Turkey;TUR;140.0
+;Turkey;TUR;124.0
+;Turkey;TUR;132.0
+;Turkey;TUR;261.0
+;Turkey;TUR;121.0
+;Turkey;TUR;95.0
+;Turkey;TUR;125.0
+;Turkey;TUR;177.0
+;Turkey;TUR;139.0
+;Turkey;TUR;116.0
+;Turkey;TUR;161.0
+;Turkey;TUR;183.0
+;Turkey;TUR;177.0
+;Turkey;TUR;152.0
+;Turkey;TUR;115.0
+;Turkey;TUR;97.0
+;Turkey;TUR;144.0
+;Turkey;TUR;119.0
+;Turkey;TUR;123.0
+;Turkey;TUR;174.0
+;Turkey;TUR;250.0
+;Turkey;TUR;136.0
+;Turkey;TUR;145.0
+;Turkey;TUR;156.0
+;Turkey;TUR;195.0
+;Czech Republic;CZE;185.0
+;Czech Republic;CZE;178.0
+;Netherlands;NLD;179.0
+;Netherlands;NLD;149.0
+;Netherlands;NLD;267.0
+;Netherlands;NLD;120.0
+;Netherlands;NLD;205.0
+;Spain;ESP;132.0
+;Spain;ESP;149.0
+;Spain;ESP;168.0
+;Spain;ESP;117.0
+;Spain;ESP;211.0
+;Spain;ESP;106.0
+;Spain;ESP;119.0
+;Spain;ESP;177.0
+;Spain;ESP;101.0
+;Spain;ESP;152.0
+;Turkey;TUR;180.0
+;Turkey;TUR;186.0
+;Turkey;TUR;178.0
+;United Kingdom;GBR;141.0
+;Norway;NOR;328.0
+;Norway;NOR;173.0
+;Norway;NOR;121.0
+;Norway;NOR;141.0
+;Norway;NOR;118.0
+;Norway;NOR;197.0
+;Norway;NOR;303.0
+;France;FRA;150.0
+;France;FRA;84.0
+;France;FRA;155.0
+;France;FRA;123.0
+;France;FRA;117.0
+;France;FRA;83.0
+;France;FRA;115.0
+;France;FRA;169.0
+;France;FRA;188.0
+;France;FRA;136.0
+;France;FRA;119.0
+;France;FRA;178.0
+;France;FRA;202.0
+;France;FRA;151.0
+;France;FRA;126.0
+;France;FRA;146.0
+;Russian Federation;RUS;105.0
+;Switzerland;CHE;128.0
+;United Kingdom;GBR;159.0
+;Russian Federation;RUS;152.0
+;Russian Federation;RUS;128.0
+;United Kingdom;GBR;224.0
+;United Kingdom;GBR;180.0
+;Latvia;LVA;139.0
+;Portugal;PRT;185.0
+;United Kingdom;GBR;126.0
+;United Kingdom;GBR;129.0
+;United Kingdom;GBR;141.0
+;United Kingdom;GBR;141.0
+;United Kingdom;GBR;208.0
+;United Kingdom;GBR;90.0
+;United Kingdom;GBR;137.0
+;United Kingdom;GBR;144.0
+;United Kingdom;GBR;160.0
+;United Kingdom;GBR;175.0
+;United Kingdom;GBR;121.0
+;United Kingdom;GBR;177.0
+;United Kingdom;GBR;229.0
+;Austria;AUT;144.0
+;United Kingdom;GBR;110.0
+;United Kingdom;GBR;224.0
+;Germany;DEU;130.0
+;Bulgaria;BGR;244.0
+;Germany;DEU;185.0
+;Germany;DEU;101.0
+;Germany;DEU;106.0
+;Germany;DEU;107.0
+;Germany;DEU;170.0
+;Germany;DEU;125.0
+;Germany;DEU;165.0
+;Germany;DEU;121.0
+;France;FRA;115.0
+;France;FRA;173.0
+;Ireland;IRL;155.0
+;Ireland;IRL;139.0
+;Ireland;IRL;166.0
+;Ireland;IRL;144.0
+;Ireland;IRL;156.0
+;Ireland;IRL;119.0
+;Ireland;IRL;79.0
+;Ireland;IRL;109.0
+;Ireland;IRL;98.0
+;Ireland;IRL;115.0
+;Netherlands;NLD;107.0
+;Netherlands;NLD;117.0
+;Netherlands;NLD;179.0
+;Netherlands;NLD;175.0
+;Netherlands;NLD;109.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;124.0
+;Netherlands;NLD;81.0
+;Netherlands;NLD;105.0
+;Netherlands;NLD;107.0
+;Netherlands;NLD;101.0
+;Germany;DEU;208.0
+;Germany;DEU;138.0
+;Germany;DEU;172.0
+;Germany;DEU;130.0
+;Germany;DEU;149.0
+;Germany;DEU;161.0
+;Germany;DEU;114.0
+;Germany;DEU;126.0
+;Germany;DEU;121.0
+;Germany;DEU;122.0
+;Germany;DEU;108.0
+;Germany;DEU;122.0
+;Germany;DEU;153.0
+;Germany;DEU;160.0
+;Spain;ESP;144.0
+;Spain;ESP;106.0
+;Spain;ESP;113.0
+;Spain;ESP;124.0
+;Spain;ESP;146.0
+;Spain;ESP;152.0
+;Spain;ESP;173.0
+;France;FRA;174.0
+;Luxembourg;LUX;161.0
+;Netherlands;NLD;142.0
+;Germany;DEU;185.0
+;Germany;DEU;175.0
+;Jordan;JOR;115.0
+;Sweden;SWE;260.0
+;Germany;DEU;116.0
+;Italy;ITA;134.0
+;Italy;ITA;174.0
+;Ireland;IRL;109.0
+;Spain;ESP;178.0
+;Russian Federation;RUS;176.0
+;Russian Federation;RUS;160.0
+;France;FRA;108.0
+;France;FRA;206.0
+;Ukraine;UKR;87.0
+;Germany;DEU;149.0
+;Russian Federation;RUS;126.0
+;Poland;POL;173.0
+;Denmark;DNK;177.0
+;Spain;ESP;203.0
+;Spain;ESP;196.0
+;Spain;ESP;138.0
+;Spain;ESP;173.0
+;Spain;ESP;171.0
+;Spain;ESP;334.0
+;Spain;ESP;128.0
+;Spain;ESP;149.0
+;Spain;ESP;136.0
+;Spain;ESP;192.0
+;Spain;ESP;152.0
+;Spain;ESP;183.0
+;Spain;ESP;152.0
+;Spain;ESP;155.0
+;Spain;ESP;133.0
+;Spain;ESP;183.0
+;Spain;ESP;122.0
+;Spain;ESP;167.0
+;Spain;ESP;339.0
+;Spain;ESP;144.0
+;Spain;ESP;109.0
+;Spain;ESP;114.0
+;Spain;ESP;166.0
+;Spain;ESP;151.0
+;Spain;ESP;183.0
+;Spain;ESP;188.0
+;Spain;ESP;177.0
+;Spain;ESP;134.0
+;Spain;ESP;222.0
+;Spain;ESP;201.0
+;Spain;ESP;172.0
+;Spain;ESP;109.0
+;Spain;ESP;111.0
+;Spain;ESP;132.0
+;Spain;ESP;107.0
+;Spain;ESP;94.0
+;Spain;ESP;112.0
+;Spain;ESP;153.0
+;Spain;ESP;125.0
+;Spain;ESP;202.0
+;Spain;ESP;146.0
+;Spain;ESP;93.0
+;Spain;ESP;114.0
+;Spain;ESP;114.0
+;Spain;ESP;104.0
+;Spain;ESP;147.0
+;Spain;ESP;176.0
+;Spain;ESP;160.0
+;Spain;ESP;128.0
+;Spain;ESP;137.0
+;Spain;ESP;148.0
+;Spain;ESP;123.0
+;Spain;ESP;116.0
+;Spain;ESP;134.0
+;Spain;ESP;114.0
+;Spain;ESP;213.0
+;Spain;ESP;122.0
+;Spain;ESP;176.0
+;Spain;ESP;192.0
+;Spain;ESP;225.0
+;Spain;ESP;131.0
+;Spain;ESP;129.0
+;Spain;ESP;192.0
+;Spain;ESP;109.0
+;Spain;ESP;176.0
+;Spain;ESP;109.0
+;Spain;ESP;167.0
+;Spain;ESP;85.0
+;Spain;ESP;121.0
+;Spain;ESP;243.0
+;Spain;ESP;195.0
+;Spain;ESP;97.0
+;Spain;ESP;179.0
+;Spain;ESP;107.0
+;Spain;ESP;101.0
+;Spain;ESP;86.0
+;Spain;ESP;181.0
+;Spain;ESP;130.0
+;Spain;ESP;145.0
+;Spain;ESP;111.0
+;Spain;ESP;151.0
+;Spain;ESP;162.0
+;Spain;ESP;201.0
+;Spain;ESP;106.0
+;Spain;ESP;94.0
+;Spain;ESP;150.0
+;Spain;ESP;149.0
+;Spain;ESP;111.0
+;Spain;ESP;124.0
+;Spain;ESP;125.0
+;Spain;ESP;93.0
+;Spain;ESP;183.0
+;Spain;ESP;188.0
+;Spain;ESP;106.0
+;Spain;ESP;180.0
+;Spain;ESP;111.0
+;Spain;ESP;112.0
+;Spain;ESP;185.0
+;Spain;ESP;110.0
+;Spain;ESP;104.0
+;Spain;ESP;206.0
+;Spain;ESP;210.0
+;Spain;ESP;167.0
+;Spain;ESP;91.0
+;Spain;ESP;151.0
+;Spain;ESP;118.0
+;Spain;ESP;149.0
+;Spain;ESP;106.0
+;Spain;ESP;225.0
+;Spain;ESP;160.0
+;Spain;ESP;162.0
+;Spain;ESP;99.0
+;Spain;ESP;132.0
+;Spain;ESP;144.0
+;Spain;ESP;118.0
+;Spain;ESP;144.0
+;Spain;ESP;136.0
+;Spain;ESP;209.0
+;Italy;ITA;124.0
+;Italy;ITA;190.0
+;Italy;ITA;142.0
+;Italy;ITA;200.0
+;Italy;ITA;137.0
+;Italy;ITA;182.0
+;Italy;ITA;95.0
+;Italy;ITA;136.0
+;Italy;ITA;122.0
+;Italy;ITA;177.0
+;Italy;ITA;113.0
+;Italy;ITA;126.0
+;Italy;ITA;128.0
+;Italy;ITA;117.0
+;Italy;ITA;120.0
+;Italy;ITA;143.0
+;Italy;ITA;147.0
+;Italy;ITA;107.0
+;Italy;ITA;150.0
+;Italy;ITA;166.0
+;Italy;ITA;148.0
+;Italy;ITA;154.0
+;Italy;ITA;137.0
+;Italy;ITA;123.0
+;Italy;ITA;177.0
+;Italy;ITA;100.0
+;Italy;ITA;85.0
+;Italy;ITA;136.0
+;Italy;ITA;149.0
+;Italy;ITA;158.0
+;Italy;ITA;146.0
+;Italy;ITA;90.0
+;Italy;ITA;85.0
+;Italy;ITA;116.0
+;Italy;ITA;119.0
+;Italy;ITA;93.0
+;Italy;ITA;130.0
+;Italy;ITA;126.0
+;Italy;ITA;94.0
+;Italy;ITA;85.0
+;Italy;ITA;183.0
+;Italy;ITA;180.0
+;Italy;ITA;102.0
+;Italy;ITA;115.0
+;Italy;ITA;123.0
+;Italy;ITA;175.0
+;Italy;ITA;172.0
+;Italy;ITA;109.0
+;Italy;ITA;115.0
+;Italy;ITA;178.0
+;Italy;ITA;124.0
+;Italy;ITA;178.0
+;Italy;ITA;177.0
+;Italy;ITA;111.0
+;Italy;ITA;151.0
+;Italy;ITA;119.0
+;Italy;ITA;153.0
+;Italy;ITA;82.0
+;Italy;ITA;127.0
+;Italy;ITA;171.0
+;Italy;ITA;186.0
+;Italy;ITA;92.0
+;Italy;ITA;121.0
+;Italy;ITA;139.0
+;Italy;ITA;155.0
+;Italy;ITA;200.0
+;Italy;ITA;163.0
+;Italy;ITA;264.0
+;Italy;ITA;191.0
+;Italy;ITA;186.0
+;Italy;ITA;122.0
+;Italy;ITA;103.0
+;Norway;NOR;175.0
+;Czech Republic;CZE;154.0
+;Czech Republic;CZE;102.0
+;Finland;FIN;306.0
+;Finland;FIN;139.0
+;France;FRA;170.0
+;France;FRA;115.0
+;France;FRA;150.0
+;Russian Federation;RUS;88.0
+;Poland;POL;78.0
+;Russian Federation;RUS;197.0
+;Russian Federation;RUS;184.0
+;Iran, Islamic Republic of;IRN;127.0
+;Romania;ROU;155.0
+;Romania;ROU;113.0
+;Germany;DEU;90.0
+;Romania;ROU;178.0
+;Romania;ROU;175.0
+;Romania;ROU;285.0
+;Spain;ESP;132.0
+;Spain;ESP;129.0
+;Slovenia;SVN;151.0
+;Slovenia;SVN;225.0
+;Slovenia;SVN;121.0
+;Slovenia;SVN;115.0
+;Slovenia;SVN;76.0
+;Slovenia;SVN;183.0
+;Germany;DEU;178.0
+;Germany;DEU;137.0
+;Germany;DEU;87.0
+;Saudi Arabia;SAU;147.0
+;Iran, Islamic Republic of;IRN;105.0
+;Austria;AUT;163.0
+;United Kingdom;GBR;173.0
+;Netherlands;NLD;137.0
+;Netherlands;NLD;108.0
+;Netherlands;NLD;128.0
+;Netherlands;NLD;125.0
+;Netherlands;NLD;201.0
+;Netherlands;NLD;101.0
+;Netherlands;NLD;107.0
+;Netherlands;NLD;149.0
+;Netherlands;NLD;131.0
+;Uzbekistan;UZB;146.0
+;Uzbekistan;UZB;128.0
+;Uzbekistan;UZB;229.0
+;Uzbekistan;UZB;94.0
+;Uzbekistan;UZB;181.0
+;Germany;DEU;203.0
+;Germany;DEU;153.0
+;Germany;DEU;88.0
+;Saudi Arabia;SAU;154.0
+;Saudi Arabia;SAU;106.0
+;Portugal;PRT;177.0
+;France;FRA;168.0
+;France;FRA;101.0
+;France;FRA;136.0
+;France;FRA;127.0
+;France;FRA;157.0
+;France;FRA;150.0
+;France;FRA;173.0
+;France;FRA;192.0
+;France;FRA;160.0
+;France;FRA;121.0
+;France;FRA;160.0
+;France;FRA;174.0
+;France;FRA;136.0
+;France;FRA;95.0
+;France;FRA;140.0
+;France;FRA;121.0
+;United Kingdom;GBR;120.0
+;Croatia;HRV;145.0
+;Germany;DEU;214.0
+;Germany;DEU;147.0
+;Germany;DEU;190.0
+;United Kingdom;GBR;93.0
+;United Kingdom;GBR;86.0
+;France;FRA;147.0
+;France;FRA;174.0
+;France;FRA;116.0
+;France;FRA;104.0
+;France;FRA;132.0
+;France;FRA;154.0
+;France;FRA;176.0
+;France;FRA;177.0
+;Romania;ROU;117.0
+;Spain;ESP;92.0
+;France;FRA;145.0
+;France;FRA;158.0
+;France;FRA;156.0
+;France;FRA;150.0
+;France;FRA;84.0
+;France;FRA;143.0
+;France;FRA;99.0
+;France;FRA;218.0
+;France;FRA;123.0
+;France;FRA;94.0
+;France;FRA;170.0
+;France;FRA;177.0
+;France;FRA;151.0
+;France;FRA;180.0
+;France;FRA;238.0
+;France;FRA;121.0
+;France;FRA;111.0
+;France;FRA;123.0
+;France;FRA;209.0
+;France;FRA;149.0
+;France;FRA;115.0
+;France;FRA;84.0
+;France;FRA;154.0
+;France;FRA;193.0
+;France;FRA;115.0
+;France;FRA;177.0
+;France;FRA;162.0
+;France;FRA;118.0
+;France;FRA;228.0
+;France;FRA;107.0
+;France;FRA;152.0
+;France;FRA;163.0
+;France;FRA;134.0
+;France;FRA;150.0
+;France;FRA;157.0
+;France;FRA;153.0
+;France;FRA;138.0
+;France;FRA;189.0
+;France;FRA;182.0
+;Spain;ESP;194.0
+;Czech Republic;CZE;117.0
+;Czech Republic;CZE;120.0
+;Czech Republic;CZE;141.0
+;Czech Republic;CZE;136.0
+;Czech Republic;CZE;142.0
+;Czech Republic;CZE;175.0
+;Czech Republic;CZE;143.0
+;Czech Republic;CZE;125.0
+;Czech Republic;CZE;117.0
+;Czech Republic;CZE;117.0
+;Czech Republic;CZE;146.0
+;Czech Republic;CZE;174.0
+;Czech Republic;CZE;145.0
+;Czech Republic;CZE;131.0
+;Czech Republic;CZE;99.0
+;Czech Republic;CZE;126.0
+;Czech Republic;CZE;131.0
+;Czech Republic;CZE;102.0
+;Czech Republic;CZE;115.0
+;Czech Republic;CZE;124.0
+;Czech Republic;CZE;167.0
+;Czech Republic;CZE;109.0
+;Czech Republic;CZE;159.0
+;Czech Republic;CZE;108.0
+;Denmark;DNK;153.0
+;Denmark;DNK;125.0
+;Denmark;DNK;106.0
+;Denmark;DNK;102.0
+;Denmark;DNK;152.0
+;Denmark;DNK;161.0
+;Denmark;DNK;162.0
+;Denmark;DNK;161.0
+;Germany;DEU;177.0
+;Germany;DEU;173.0
+;Germany;DEU;122.0
+;Germany;DEU;142.0
+;Russian Federation;RUS;163.0
+;Russian Federation;RUS;136.0
+;Russian Federation;RUS;148.0
+;Russian Federation;RUS;177.0
+;Russian Federation;RUS;195.0
+;Russian Federation;RUS;124.0
+;Russian Federation;RUS;141.0
+;Russian Federation;RUS;118.0
+;Russian Federation;RUS;177.0
+;Russian Federation;RUS;184.0
+;Russian Federation;RUS;136.0
+;Russian Federation;RUS;279.0
+;Russian Federation;RUS;83.0
+;Russian Federation;RUS;111.0
+;Russian Federation;RUS;212.0
+;Russian Federation;RUS;124.0
+;Russian Federation;RUS;185.0
+;Russian Federation;RUS;200.0
+;Russian Federation;RUS;183.0
+;Russian Federation;RUS;171.0
+;Russian Federation;RUS;196.0
+;Russian Federation;RUS;126.0
+;Russian Federation;RUS;171.0
+;Russian Federation;RUS;255.0
+;Russian Federation;RUS;174.0
+;Russian Federation;RUS;194.0
+;Russian Federation;RUS;148.0
+;Russian Federation;RUS;142.0
+;Russian Federation;RUS;150.0
+;Russian Federation;RUS;128.0
+;Russian Federation;RUS;85.0
+;Russian Federation;RUS;184.0
+;Russian Federation;RUS;84.0
+;Russian Federation;RUS;137.0
+;Russian Federation;RUS;94.0
+;Russian Federation;RUS;162.0
+;Russian Federation;RUS;128.0
+;Estonia;EST;199.0
+;Estonia;EST;140.0
+;Estonia;EST;180.0
+;Estonia;EST;123.0
+;Estonia;EST;206.0
+;United Kingdom;GBR;114.0
+;Germany;DEU;138.0
+;Sweden;SWE;85.0
+;Sweden;SWE;170.0
+;Sweden;SWE;167.0
+;Sweden;SWE;132.0
+;Sweden;SWE;183.0
+;Sweden;SWE;213.0
+;Sweden;SWE;182.0
+;spain;ES;130.0
+;spain;ES;152.0
+;spain;ES;122.0
+;spain;ES;222.0
+;spain;ES;91.0
+;spain;ES;179.0
+;Russian Federation;RUS;130.0
+;Russian Federation;RUS;152.0
+;Russian Federation;RUS;120.0
+;Russian Federation;RUS;178.0
+;Netherlands;NLD;132.0
+;United Kingdom;GBR;86.0
+;Italy;ITA;150.0
+;Netherlands;NLD;210.0
+;Netherlands;NLD;94.0
+;Netherlands;NLD;122.0
+;Germany;DEU;181.0
+;Germany;DEU;118.0
+;Germany;DEU;209.0
+;Germany;DEU;87.0
+;Germany;DEU;205.0
+;Germany;DEU;179.0
+;Germany;DEU;114.0
+;Germany;DEU;102.0
+;Germany;DEU;154.0
+;Switzerland;CHE;106.0
+;Spain;ESP;77.0
+;Spain;ESP;145.0
+;Spain;ESP;155.0
+;Germany;DEU;126.0
+;Germany;DEU;136.0
+;Germany;DEU;188.0
+;Germany;DEU;93.0
+;Germany;DEU;121.0
+;Germany;DEU;187.0
+;Germany;DEU;124.0
+;Germany;DEU;177.0
+;Germany;DEU;200.0
+;Germany;DEU;159.0
+;Germany;DEU;147.0
+;Germany;DEU;108.0
+;Germany;DEU;183.0
+;Germany;DEU;127.0
+;Germany;DEU;200.0
+;Germany;DEU;169.0
+;Germany;DEU;176.0
+;Germany;DEU;121.0
+;Germany;DEU;136.0
+;Germany;DEU;185.0
+;Germany;DEU;106.0
+;Germany;DEU;99.0
+;Germany;DEU;130.0
+;Germany;DEU;133.0
+;Germany;DEU;118.0
+;Germany;DEU;195.0
+;Germany;DEU;143.0
+;Germany;DEU;184.0
+;Germany;DEU;115.0
+;Germany;DEU;122.0
+;Germany;DEU;144.0
+;Germany;DEU;101.0
+;Germany;DEU;88.0
+;Germany;DEU;132.0
+;Germany;DEU;83.0
+;Germany;DEU;144.0
+;Germany;DEU;184.0
+;Germany;DEU;119.0
+;Germany;DEU;175.0
+;Germany;DEU;183.0
+;Germany;DEU;145.0
+;Germany;DEU;262.0
+;Germany;DEU;192.0
+;Germany;DEU;153.0
+;Germany;DEU;80.0
+;Germany;DEU;120.0
+;Germany;DEU;110.0
+;United Kingdom;GBR;104.0
+;United Kingdom;GBR;108.0
+;France;FRA;197.0
+;Italy;ITA;181.0
+;Italy;ITA;167.0
+;Italy;ITA;141.0
+;Italy;ITA;185.0
+;Italy;ITA;121.0
+;Germany;DEU;177.0
+;Ukraine;UKR;125.0
+;Belarus;BLR;109.0
+;Uzbekistan;UZB;164.0
+;Israel;ISR;188.0
+;Israel;ISR;136.0
+;Israel;ISR;170.0
+;Germany;DEU;121.0
+;Germany;DEU;138.0
+;Belgium;BEL;161.0
+;Belgium;BEL;154.0
+;Switzerland;CHE;145.0
+;Switzerland;CHE;185.0
+;Kazakhstan;KAZ;156.0
+;Kazakhstan;KAZ;159.0
+;Kazakhstan;KAZ;152.0
+;Germany;DEU;189.0
+;Germany;DEU;216.0
+;Germany;DEU;180.0
+;Germany;DEU;179.0
+;Germany;DEU;204.0
+;Germany;DEU;284.0
+;Germany;DEU;189.0
+;Germany;DEU;177.0
+;Germany;DEU;177.0
+;Germany;DEU;202.0
+;Poland;POL;189.0
+;Italy;ITA;151.0
+;Italy;ITA;224.0
+;Italy;ITA;156.0
+;Sweden;SWE;289.0
+;Ukraine;UKR;179.0
+;Turkey;TUR;177.0
+;Russian Federation;RUS;146.0
+;Russian Federation;RUS;198.0
+;Russian Federation;RUS;121.0
+;Germany;DEU;137.0
+;Germany;DEU;144.0
+;Germany;DEU;82.0
+;Germany;DEU;155.0
+;Norway;NOR;148.0
+;Norway;NOR;143.0
+;Norway;NOR;106.0
+;Norway;NOR;141.0
+;Norway;NOR;105.0
+;Norway;NOR;101.0
+;Norway;NOR;93.0
+;Norway;NOR;120.0
+;Norway;NOR;164.0
+;Norway;NOR;198.0
+;Norway;NOR;177.0
+;Norway;NOR;117.0
+;Norway;NOR;115.0
+;Israel;ISR;150.0
+;Israel;ISR;103.0
+;Israel;ISR;159.0
+;Israel;ISR;136.0
+;Israel;ISR;101.0
+;Israel;ISR;167.0
+;Israel;ISR;126.0
+;Israel;ISR;112.0
+;Netherlands;NLD;125.0
+;Netherlands;NLD;335.0
+;Russian Federation;RUS;140.0
+;Russian Federation;RUS;180.0
+;Russian Federation;RUS;119.0
+;Russian Federation;RUS;148.0
+;Russian Federation;RUS;197.0
+;Russian Federation;RUS;201.0
+;Russian Federation;RUS;177.0
+;Russian Federation;RUS;113.0
+;Russian Federation;RUS;99.0
+;Russian Federation;RUS;106.0
+;Russian Federation;RUS;151.0
+;Iran, Islamic Republic of;IRN;153.0
+;Iran, Islamic Republic of;IRN;105.0
+;Iran, Islamic Republic of;IRN;235.0
+;Iran, Islamic Republic of;IRN;146.0
+;Iran, Islamic Republic of;IRN;105.0
+;Iran, Islamic Republic of;IRN;208.0
+;Iran, Islamic Republic of;IRN;93.0
+;Iran, Islamic Republic of;IRN;118.0
+;Spain;ESP;108.0
+;Russian Federation;RUS;94.0
+;Russian Federation;RUS;119.0
+;Russian Federation;RUS;111.0
+;Russian Federation;RUS;174.0
+;Russian Federation;RUS;194.0
+;Italy;ITA;212.0
+;Italy;ITA;124.0
+;Italy;ITA;177.0
+;Italy;ITA;196.0
+;Italy;ITA;111.0
+;Italy;ITA;192.0
+;Romania;ROU;144.0
+;Romania;ROU;235.0
+;Romania;ROU;194.0
+;Russian Federation;RUS;177.0
+;Russian Federation;RUS;192.0
+;Russian Federation;RUS;137.0
+;Russian Federation;RUS;104.0
+;Russian Federation;RUS;113.0
+;Russian Federation;RUS;152.0
+;Ukraine;UKR;120.0
+;Ukraine;UKR;117.0
+;Ukraine;UKR;179.0
+;Ukraine;UKR;162.0
+;Ukraine;UKR;152.0
+;Ukraine;UKR;200.0
+;Ukraine;UKR;166.0
+;Portugal;PRT;124.0
+;Portugal;PRT;128.0
+;Portugal;PRT;197.0
+;Portugal;PRT;98.0
+;Portugal;PRT;191.0
+;France;FRA;93.0
+;France;FRA;174.0
+;France;FRA;204.0
+;Russian Federation;RUS;158.0
+;Russian Federation;RUS;186.0
+;Russian Federation;RUS;123.0
+;Russian Federation;RUS;83.0
+;Russian Federation;RUS;79.0
+;Russian Federation;RUS;183.0
+;Russian Federation;RUS;186.0
+;Georgia;GEO;218.0
+;Georgia;GEO;136.0
+;Georgia;GEO;146.0
+;Georgia;GEO;209.0
+;Georgia;GEO;180.0
+;Georgia;GEO;163.0
+;United Kingdom;GBR;129.0
+;United Kingdom;GBR;142.0
+;United Kingdom;GBR;177.0
+;Russian Federation;RUS;175.0
+;Russian Federation;RUS;110.0
+;United Kingdom;GBR;207.0
+;United Kingdom;GBR;123.0
+;United Kingdom;GBR;197.0
+;United Kingdom;GBR;191.0
+;United Kingdom;GBR;106.0
+;United Kingdom;GBR;84.0
+;United Kingdom;GBR;128.0
+;United Kingdom;GBR;102.0
+;United Kingdom;GBR;81.0
+;United Kingdom;GBR;219.0
+;United Kingdom;GBR;99.0
+;United States;USA;96.0
+;United States;USA;123.0
+;United States;USA;108.0
+;United States;USA;88.0
+;Canada;CAN;115.0
+;China;CHN;92.0
+;China;CHN;115.0
+;Australia;AUS;136.0
+;India;IND;81.0
+;India;IND;86.0
+;United States;USA;132.0
+;Morocco;MAR;131.0
+;Angola;AGO;100.0
+;South Africa;ZAF;81.0
+;United States;USA;83.0
+;United States;USA;123.0
+;United States;USA;106.0
+;United States;USA;147.0
+;Denmark;DNK;94.0
+;Bahrain;BHR;98.0
+;Israel;ISR;138.0
+;France;FRA;102.0
+;Belarus;BLR;86.0
+;Slovenia;SVN;105.0
+;United Kingdom;GBR;180.0
+;Korea, Republic of;KOR;108.0
+;Japan;JPN;86.0
+;Korea, Republic of;KOR;127.0
+;China;CHN;89.0
+;Taiwan, Province of China;TWN;193.0
+;China;CHN;92.0
+;China;CHN;108.0
+;Korea, Republic of;KOR;120.0
+;Korea, Republic of;KOR;124.0
+;Korea, Republic of;KOR;125.0
+;Korea, Republic of;KOR;410.0
+;China;CHN;141.0
+;Japan;JPN;83.0
+;Japan;JPN;89.0
+;Korea, Republic of;KOR;83.0
+;Korea, Republic of;KOR;83.0
+;Korea, Republic of;KOR;85.0
+;China;CHN;108.0
+;Korea, Republic of;KOR;97.0
+;China;CHN;85.0
+;Korea, Republic of;KOR;190.0
+;China;CHN;82.0
+;China;CHN;84.0
+;China;CHN;135.0
+;China;CHN;114.0
+;Japan;JPN;121.0
+;China;CHN;150.0
+;Korea, Republic of;KOR;199.0
+;China;CHN;89.0
+;China;CHN;117.0
+;Philippines;PHL;161.0
+;Australia;AUS;125.0
+;India;IND;96.0
+;China;CHN;148.0
+;Korea, Republic of;KOR;130.0
+;Japan;JPN;158.0
+;United States;USA;97.0
+;France;FRA;138.0
+;United States;USA;106.0
+;United States;USA;163.0
+;United States;USA;112.0
+;United States;USA;100.0
+;United States;USA;85.0
+;United States;USA;134.0
+;United States;USA;215.0
+;United States;USA;95.0
+;United States;USA;151.0
+;United States;USA;151.0
+;United States;USA;124.0
+;United States;USA;95.0
+;spain;ES;119.0
+;Brazil;BRA;117.0
+;United States;USA;184.0
+;United States;USA;153.0
+;United States;USA;93.0
+;United States;USA;204.0
+;United States;USA;87.0
+;United States;USA;138.0
+;United States;USA;149.0
+;United States;USA;198.0
+;United States;USA;146.0
+;United States;USA;143.0
+;United States;USA;120.0
+;United States;USA;102.0
+;United States;USA;149.0
+;United States;USA;101.0
+;United States;USA;129.0
+;United States;USA;135.0
+;United States;USA;104.0
+;United States;USA;105.0
+;United States;USA;234.0
+;United States;USA;169.0
+;United States;USA;119.0
+;United States;USA;162.0
+;Romania;ROU;195.0
+;Australia;AUS;120.0
+;Australia;AUS;85.0
+;United States;USA;153.0
+;United States;USA;125.0
+;Norway;NOR;198.0
+;Norway;NOR;177.0
+;United Kingdom;GBR;175.0
+;United States;USA;171.0
+;United States;USA;101.0
+;United States;USA;155.0
+;United States;USA;149.0
+;United States;USA;121.0
+;France;FRA;182.0
+;France;FRA;169.0
+;France;FRA;215.0
+;United States;USA;148.0
+;United States;USA;141.0
+;United States;USA;119.0
+;United States;USA;179.0
+;United States;USA;107.0
+;Portugal;PRT;136.0
+;Portugal;PRT;119.0
+;United States;USA;130.0
+;United States;USA;170.0
+;United States;USA;147.0
+;United States;USA;118.0
+;United Kingdom;GBR;129.0
+;United Kingdom;GBR;184.0
+;United Kingdom;GBR;168.0
+;Italy;ITA;261.0
+;Italy;ITA;131.0
+;United States;USA;137.0
+;United States;USA;101.0
+;United States;USA;177.0
+;United States;USA;175.0
+;United States;USA;134.0
+;United States;USA;99.0
+;United States;USA;123.0
+;United States;USA;153.0
+;United States;USA;250.0
+;United States;USA;151.0
+;United States;USA;116.0
+;Ghana;GHA;79.0
+;United States;USA;195.0
+;Hong Kong;HKG;134.0
+;Japan;JPN;179.0
+;Japan;JPN;114.0
+;United States;USA;194.0
+;Norway;NOR;167.0
+;Norway;NOR;106.0
+;Norway;NOR;139.0
+;United States;USA;106.0
+;United States;USA;212.0
+;Singapore;SGP;177.0
+;Canada;CAN;107.0
+;Japan;JPN;103.0
+;United States;USA;144.0
+;Australia;AUS;151.0
+;Australia;AUS;149.0
+;United States;USA;108.0
+;United States;USA;143.0
+;Thailand;THA;93.0
+;Thailand;THA;102.0
+;China;CHN;119.0
+;China;CHN;173.0
+;Viet Nam;VNM;149.0
+;spain;ES;145.0
+;United States;USA;88.0
+;United States;USA;105.0
+;United States;USA;95.0
+;United States;USA;107.0
+;United States;USA;142.0
+;United States;USA;90.0
+;Canada;CAN;110.0
+;United States;USA;149.0
+;United States;USA;149.0
+;United States;USA;124.0
+;United States;USA;166.0
+;United States;USA;127.0
+;China;CHN;123.0
+;United Kingdom;GBR;133.0
+;United Kingdom;GBR;184.0
+;United Kingdom;GBR;334.0
+;United Kingdom;GBR;228.0
+;United Kingdom;GBR;183.0
+;Turkey;TUR;230.0
+;Sweden;SWE;117.0
+;Germany;DEU;140.0
+;Ukraine;UKR;92.0
+;Ukraine;UKR;160.0
+;Ukraine;UKR;162.0
+;Ukraine;UKR;96.0
+;Ukraine;UKR;181.0
+;Czech Republic;CZE;173.0
+;Czech Republic;CZE;127.0
+;Czech Republic;CZE;84.0
+;Russian Federation;RUS;175.0
+;Russian Federation;RUS;207.0
+;Russian Federation;RUS;118.0
+;Russian Federation;RUS;89.0
+;Russian Federation;RUS;147.0
+;Russian Federation;RUS;137.0
+;Russian Federation;RUS;105.0
+;Russian Federation;RUS;110.0
+;Russian Federation;RUS;193.0
+;Russian Federation;RUS;117.0
+;Kazakhstan;KAZ;209.0
+;Kazakhstan;KAZ;156.0
+;Kazakhstan;KAZ;163.0
+;Czech Republic;CZE;103.0
+;Czech Republic;CZE;119.0
+;Czech Republic;CZE;112.0
+;Czech Republic;CZE;114.0
+;Russian Federation;RUS;151.0
+;Russian Federation;RUS;88.0
+;Saudi Arabia;SAU;146.0
+;Romania;ROU;120.0
+;Romania;ROU;117.0
+;Poland;POL;141.0
+;Russian Federation;RUS;136.0
+;Russian Federation;RUS;101.0
+;Russian Federation;RUS;119.0
+;Ukraine;UKR;109.0
+;Ukraine;UKR;102.0
+;Ukraine;UKR;130.0
+;Spain;ESP;368.0
+;Russian Federation;RUS;145.0
+;Ukraine;UKR;143.0
+;Poland;POL;136.0
+;Poland;POL;154.0
+;Czech Republic;CZE;203.0
+;Slovakia;SVK;262.0
+;Ukraine;UKR;132.0
+;Ukraine;UKR;101.0
+;Ukraine;UKR;137.0
+;Czech Republic;CZE;118.0
+;Poland;POL;196.0
+;Poland;POL;171.0
+;France;FRA;102.0
+;Mexico;MEX;100.0
+;Germany;DEU;103.0
+;Germany;DEU;95.0
+;Germany;DEU;102.0
+;Kuwait;KWT;179.0
+;Russian Federation;RUS;126.0
+;Czech Republic;CZE;129.0
+;Czech Republic;CZE;218.0
+;Czech Republic;CZE;135.0
+;Czech Republic;CZE;169.0
+;Czech Republic;CZE;108.0
+;Russian Federation;RUS;152.0
+;Russian Federation;RUS;231.0
+;Russian Federation;RUS;157.0
+;Russian Federation;RUS;137.0
+;Netherlands;NLD;214.0
+;Armenia;ARM;191.0
+;Venezuela, Bolivarian Republic of;VEN;143.0
+;Venezuela, Bolivarian Republic of;VEN;84.0
+;Argentina;ARG;147.0
+;Paraguay;PRY;126.0
+;Argentina;ARG;103.0
+;Colombia;COL;99.0
+;Argentina;ARG;118.0
+;Argentina;ARG;128.0
+;Colombia;COL;83.0
+;Ecuador;ECU;200.0
+;Argentina;ARG;117.0
+;Panama;PAN;118.0
+;Venezuela, Bolivarian Republic of;VEN;107.0
+;Chile;CHL;107.0
+;Colombia;COL;95.0
+;Colombia;COL;116.0
+;Honduras;HND;134.0
+;India;IND;162.0
+;Japan;JPN;125.0
+;Japan;JPN;135.0
+;China;CHN;158.0
+;China;CHN;125.0
+;China;CHN;126.0
+;Korea, Republic of;KOR;103.0
+;China;CHN;148.0
+;China;CHN;131.0
+;United States;USA;138.0
+;Canada;CAN;94.0
+;Russian Federation;RUS;209.0
+;Russian Federation;RUS;179.0
+;Poland;POL;162.0
+;Poland;POL;139.0
+;Slovenia;SVN;79.0
+;Slovenia;SVN;178.0
+;spain;ES;153.0
+;Ukraine;UKR;177.0
+;Serbia;SRB;255.0
+;United States;USA;193.0
+;Switzerland;CHE;148.0
+;United Kingdom;GBR;139.0
+;Switzerland;CHE;168.0
+;Germany;DEU;166.0
+;Netherlands;NLD;146.0
+;Russian Federation;RUS;162.0
+;Russian Federation;RUS;100.0
+;Ukraine;UKR;175.0
+;Germany;DEU;116.0
+;Sweden;SWE;175.0
+;Italy;ITA;323.0
+;Czech Republic;CZE;135.0
+;United Kingdom;GBR;145.0
+;Bulgaria;BGR;167.0
+;Spain;ESP;102.0
+;United Kingdom;GBR;203.0
+;United Kingdom;GBR;97.0
+;United States;USA;124.0
+;Netherlands;NLD;133.0
+;Syrian Arab Republic;SYR;177.0
+;Iran, Islamic Republic of;IRN;122.0
+;Russian Federation;RUS;162.0
+;Albania;ALB;100.0
+;Netherlands;NLD;101.0
+;France;FRA;111.0
+;Denmark;DNK;90.0
+;Spain;ESP;85.0
+;United States;USA;143.0
+;United Kingdom;GBR;131.0
+;Ukraine;UKR;204.0
+;Germany;DEU;170.0
+;France;FRA;110.0
+;Russian Federation;RUS;114.0
+;Uzbekistan;UZB;170.0
+;France;FRA;139.0
+;United Kingdom;GBR;170.0
+;Italy;ITA;177.0
+;spain;ES;340.0
+;spain;ES;145.0
+;spain;ES;110.0
+;Colombia;COL;103.0
+;Uruguay;URY;85.0
+;Argentina;ARG;100.0
+;Panama;PAN;132.0
+;Chile;CHL;89.0
+;Chile;CHL;87.0
+;Colombia;COL;82.0
+;Chile;CHL;87.0
+;Bolivia, Plurinational State of;BOL;109.0
+;Argentina;ARG;115.0
+;Argentina;ARG;159.0
+;Argentina;ARG;147.0
+;Colombia;COL;98.0
+;Venezuela, Bolivarian Republic of;VEN;82.0
+;Mexico;MEX;151.0
+;Mexico;MEX;96.0
+;Mexico;MEX;93.0
+;Mexico;MEX;86.0
+;Mexico;MEX;107.0
+;Mexico;MEX;108.0
+;Mexico;MEX;150.0
+;Netherlands;NLD;89.0
+;Netherlands;NLD;213.0
+;spain;ES;117.0
+;Belgium;BEL;82.0
+;Russian Federation;RUS;133.0
+;Serbia;SRB;169.0
+;Russian Federation;RUS;194.0
+;Italy;ITA;140.0
+;Luxembourg;LUX;78.0
+;United Kingdom;GBR;181.0
+;Russian Federation;RUS;155.0
+;Portugal;PRT;191.0
+;Portugal;PRT;100.0
+;Germany;DEU;107.0
+;Italy;ITA;115.0
+;Switzerland;CHE;160.0
+;Italy;ITA;175.0
+;United Kingdom;GBR;109.0
+;Germany;DEU;106.0
+;Germany;DEU;175.0
+;Germany;DEU;179.0
+;Germany;DEU;175.0
+;Germany;DEU;121.0
+;Germany;DEU;128.0
+;Germany;DEU;147.0
+;Germany;DEU;137.0
+;Germany;DEU;195.0
+;Germany;DEU;164.0
+;Germany;DEU;92.0
+;Germany;DEU;135.0
+;Germany;DEU;131.0
+;Germany;DEU;153.0
+;Germany;DEU;185.0
+;Germany;DEU;102.0
+;Denmark;DNK;125.0
+;Russian Federation;RUS;156.0
+;Italy;ITA;268.0
+;Syrian Arab Republic;SYR;184.0
+;Brazil;BRA;149.0
+;Brazil;BRA;169.0
+;Brazil;BRA;117.0
+;Brazil;BRA;103.0
+;Mexico;MEX;124.0
+;Mexico;MEX;132.0
+;Mexico;MEX;177.0
+;Mexico;MEX;83.0
+;Mexico;MEX;129.0
+;Mexico;MEX;110.0
+;Mexico;MEX;107.0
+;Mexico;MEX;130.0
+;Mexico;MEX;86.0
+;Mexico;MEX;112.0
+;Mexico;MEX;95.0
+;Mexico;MEX;127.0
+;Mexico;MEX;119.0
+;Mexico;MEX;78.0
+;Mexico;MEX;112.0
+;Mexico;MEX;145.0
+;Colombia;COL;142.0
+;Colombia;COL;152.0
+;Chile;CHL;107.0
+;Argentina;ARG;84.0
+;El Salvador;SLV;84.0
+;Colombia;COL;98.0
+;Venezuela, Bolivarian Republic of;VEN;106.0
+;Honduras;HND;96.0
+;Colombia;COL;80.0
+;Argentina;ARG;126.0
+;Bolivia, Plurinational State of;BOL;155.0
+;Argentina;ARG;114.0
+;Colombia;COL;104.0
+;Colombia;COL;116.0
+;Colombia;COL;85.0
+;Colombia;COL;187.0
+;Colombia;COL;128.0
+;Brazil;BRA;87.0
+;Brazil;BRA;156.0
+;Chile;CHL;213.0
+;Chile;CHL;158.0
+;Chile;CHL;140.0
+;Chile;CHL;100.0
+;Brazil;BRA;128.0
+;Brazil;BRA;98.0
+;United States;USA;136.0
+;United Arab Emirates;ARE;172.0
+;Austria;AUT;196.0
+;United States;USA;157.0
+;Turkey;TUR;101.0
+;Turkey;TUR;128.0
+;Turkey;TUR;87.0
+;Turkey;TUR;92.0
+;Turkey;TUR;101.0
+;Netherlands;NLD;115.0
+;Netherlands;NLD;103.0
+;Netherlands;NLD;177.0
+;Netherlands;NLD;85.0
+;Germany;DEU;205.0
+;Germany;DEU;185.0
+;Germany;DEU;181.0
+;Norway;NOR;146.0
+;spain;ES;150.0
+;spain;ES;192.0
+;Denmark;DNK;177.0
+;Denmark;DNK;201.0
+;Denmark;DNK;151.0
+;Finland;FIN;92.0
+;Finland;FIN;118.0
+;Finland;FIN;101.0
+;Netherlands;NLD;191.0
+;Netherlands;NLD;358.0
+;Netherlands;NLD;85.0
+;spain;ES;172.0
+;Germany;DEU;247.0
+;United States;USA;85.0
+;Bulgaria;BGR;96.0
+;Austria;AUT;99.0
+;Australia;AUS;108.0
+;Australia;AUS;307.0
+;Australia;AUS;144.0
+;Iran, Islamic Republic of;IRN;148.0
+;Iran, Islamic Republic of;IRN;117.0
+;Netherlands;NLD;88.0
+;Denmark;DNK;173.0
+;Denmark;DNK;111.0
+;Denmark;DNK;168.0
+;Denmark;DNK;193.0
+;Denmark;DNK;179.0
+;Finland;FIN;200.0
+;Finland;FIN;142.0
+;France;FRA;227.0
+;Russian Federation;RUS;181.0
+;Germany;DEU;189.0
+;Norway;NOR;126.0
+;Norway;NOR;181.0
+;Norway;NOR;200.0
+;Austria;AUT;212.0
+;Austria;AUT;128.0
+;Czech Republic;CZE;172.0
+;Norway;NOR;150.0
+;Norway;NOR;255.0
+;Austria;AUT;210.0
+;Germany;DEU;191.0
+;Germany;DEU;94.0
+;Germany;DEU;164.0
+;Germany;DEU;151.0
+;Belgium;BEL;185.0
+;Netherlands;NLD;196.0
+;United Kingdom;GBR;197.0
+;United Kingdom;GBR;186.0
+;United Kingdom;GBR;177.0
+;United Kingdom;GBR;102.0
+;United Kingdom;GBR;217.0
+;United Kingdom;GBR;227.0
+;United Kingdom;GBR;191.0
+;United Kingdom;GBR;197.0
+;United Kingdom;GBR;250.0
+;United Kingdom;GBR;212.0
+;United Kingdom;GBR;169.0
+;United Kingdom;GBR;92.0
+;Netherlands;NLD;155.0
+;Greece;GRC;137.0
+;Russian Federation;RUS;98.0
+;Russian Federation;RUS;125.0
+;Russian Federation;RUS;100.0
+;Russian Federation;RUS;192.0
+;Turkey;TUR;187.0
+;Netherlands;NLD;177.0
+;Serbia;SRB;182.0
+;Serbia;SRB;107.0
+;Estonia;EST;195.0
+;Estonia;EST;199.0
+;Slovenia;SVN;256.0
+;Greece;GRC;89.0
+;Greece;GRC;147.0
+;Greece;GRC;182.0
+;South Africa;ZAF;212.0
+;Dominican Republic;DOM;127.0
+;Argentina;ARG;127.0
+;Chile;CHL;116.0
+;Argentina;ARG;145.0
+;Brazil;BRA;97.0
+;Peru;PER;123.0
+;Brazil;BRA;103.0
+;Brazil;BRA;82.0
+;Brazil;BRA;146.0
+;Mexico;MEX;87.0
+;Mexico;MEX;121.0
+;Mexico;MEX;91.0
+;Mexico;MEX;134.0
+;Mexico;MEX;181.0
+;Chile;CHL;146.0
+;Costa Rica;CRI;140.0
+;Venezuela, Bolivarian Republic of;VEN;86.0
+;Venezuela, Bolivarian Republic of;VEN;119.0
+;Colombia;COL;84.0
+;Colombia;COL;185.0
+;Australia;AUS;99.0
+;Indonesia;IDN;105.0
+;Taiwan, Province of China;TWN;115.0
+;Australia;AUS;147.0
+;Korea, Republic of;KOR;150.0
+;United States;USA;102.0
+;United States;USA;189.0
+;United States;USA;119.0
+;Taiwan, Province of China;TWN;82.0
+;Korea, Republic of;KOR;147.0
+;Australia;AUS;93.0
+;Korea, Republic of;KOR;85.0
+;Czech Republic;CZE;155.0
+;Czech Republic;CZE;161.0
+;Spain;ESP;248.0
+;Germany;DEU;126.0
+;United Kingdom;GBR;87.0
+;United Kingdom;GBR;153.0
+;United Kingdom;GBR;168.0
+;United Kingdom;GBR;121.0
+;Russian Federation;RUS;200.0
+;Germany;DEU;119.0
+;Russian Federation;RUS;105.0
+;Singapore;SGP;222.0
+;Singapore;SGP;129.0
+;Singapore;SGP;144.0
+;Saudi Arabia;SAU;138.0
+;Israel;ISR;204.0
+;Israel;ISR;182.0
+;Israel;ISR;177.0
+;Israel;ISR;181.0
+;Israel;ISR;191.0
+;Israel;ISR;151.0
+;France;FRA;143.0
+;France;FRA;179.0
+;France;FRA;178.0
+;Singapore;SGP;123.0
+;Singapore;SGP;165.0
+;Poland;POL;231.0
+;Poland;POL;267.0
+;United Kingdom;GBR;215.0
+;Poland;POL;202.0
+;Germany;DEU;80.0
+;Germany;DEU;147.0
+;Germany;DEU;105.0
+;Germany;DEU;164.0
+;Germany;DEU;177.0
+;Germany;DEU;300.0
+;Austria;AUT;188.0
+;Israel;ISR;183.0
+;Israel;ISR;119.0
+;Israel;ISR;124.0
+;Israel;ISR;113.0
+;Israel;ISR;262.0
+;Kyrgyzstan;KGZ;144.0
+;Kyrgyzstan;KGZ;139.0
+;Netherlands;NLD;148.0
+;Netherlands;NLD;101.0
+;Italy;ITA;159.0
+;Italy;ITA;109.0
+;Finland;FIN;151.0
+;Finland;FIN;150.0
+;Sweden;SWE;235.0
+;Sweden;SWE;89.0
+;Sweden;SWE;279.0
+;Sweden;SWE;171.0
+;Sweden;SWE;212.0
+;Finland;FIN;149.0
+;Sweden;SWE;198.0
+;Sweden;SWE;198.0
+;Sweden;SWE;187.0
+;Czech Republic;CZE;147.0
+;Czech Republic;CZE;102.0
+;Czech Republic;CZE;205.0
+;United States;USA;114.0
+;United States;USA;126.0
+;Germany;DEU;246.0
+;Germany;DEU;82.0
+;Poland;POL;236.0
+;United Kingdom;GBR;178.0
+;Italy;ITA;154.0
+;United Kingdom;GBR;135.0
+;United Kingdom;GBR;107.0
+;Netherlands;NLD;122.0
+;Netherlands;NLD;160.0
+;Germany;DEU;150.0
+;Netherlands;NLD;149.0
+;Netherlands;NLD;177.0
+;Netherlands;NLD;96.0
+;Netherlands;NLD;208.0
+;Italy;ITA;115.0
+;Italy;ITA;219.0
+;Poland;POL;123.0
+;Croatia;HRV;156.0
+;Ukraine;UKR;162.0
+;Ukraine;UKR;193.0
+;Sweden;SWE;210.0
+;Sweden;SWE;128.0
+;Poland;POL;175.0
+;Poland;POL;193.0
+;Germany;DEU;140.0
+;Germany;DEU;207.0
+;Germany;DEU;197.0
+;Germany;DEU;202.0
+;Germany;DEU;196.0
+;Germany;DEU;197.0
+;Germany;DEU;96.0
+;Germany;DEU;230.0
+;Germany;DEU;115.0
+;Germany;DEU;77.0
+;Germany;DEU;192.0
+;Germany;DEU;202.0
+;Germany;DEU;122.0
+;Germany;DEU;188.0
+;Germany;DEU;132.0
+;Germany;DEU;115.0
+;Germany;DEU;119.0
+;Germany;DEU;177.0
+;Germany;DEU;275.0
+;Germany;DEU;205.0
+;Germany;DEU;126.0
+;Germany;DEU;102.0
+;Germany;DEU;96.0
+;Germany;DEU;181.0
+;Germany;DEU;146.0
+;Germany;DEU;131.0
+;Germany;DEU;101.0
+;Germany;DEU;144.0
+;Germany;DEU;192.0
+;Germany;DEU;117.0
+;Germany;DEU;177.0
+;Germany;DEU;94.0
+;Germany;DEU;156.0
+;Germany;DEU;137.0
+;Germany;DEU;115.0
+;Germany;DEU;176.0
+;Switzerland;CHE;187.0
+;Switzerland;CHE;178.0
+;Switzerland;CHE;236.0
+;Switzerland;CHE;126.0
+;Switzerland;CHE;137.0
+;Switzerland;CHE;99.0
+;Switzerland;CHE;195.0
+;Switzerland;CHE;104.0
+;Switzerland;CHE;196.0
+;Switzerland;CHE;159.0
+;Switzerland;CHE;112.0
+;Switzerland;CHE;99.0
+;Switzerland;CHE;105.0
+;Switzerland;CHE;151.0
+;Switzerland;CHE;138.0
+;Switzerland;CHE;173.0
+;Russian Federation;RUS;171.0
+;United Kingdom;GBR;162.0
+;spain;ES;188.0
+;Spain;ESP;148.0
+;Czech Republic;CZE;156.0
+;Netherlands;NLD;130.0
+;Germany;DEU;201.0
+;United Kingdom;GBR;311.0
+;United Kingdom;GBR;215.0
+;United Kingdom;GBR;258.0
+;Spain;ESP;188.0
+;Italy;ITA;155.0
+;Italy;ITA;136.0
+;Serbia;SRB;192.0
+;United Kingdom;GBR;142.0
+;United Kingdom;GBR;106.0
+;United States;USA;131.0
+;United States;USA;146.0
+;United States;USA;95.0
+;United States;USA;153.0
+;United Kingdom;GBR;230.0
+;United Kingdom;GBR;180.0
+;Spain;ESP;155.0
+;Austria;AUT;274.0
+;Norway;NOR;101.0
+;Russian Federation;RUS;193.0
+;Slovakia;SVK;104.0
+;Egypt;EGY;101.0
+;Egypt;EGY;172.0
+;Netherlands;NLD;102.0
+;Finland;FIN;135.0
+;Finland;FIN;116.0
+;Finland;FIN;137.0
+;Italy;ITA;110.0
+;Italy;ITA;220.0
+;Sweden;SWE;161.0
+;Slovakia;SVK;170.0
+;Estonia;EST;207.0
+;Germany;DEU;176.0
+;Germany;DEU;144.0
+;Germany;DEU;101.0
+;Germany;DEU;179.0
+;Germany;DEU;110.0
+;Germany;DEU;148.0
+;Germany;DEU;200.0
+;Germany;DEU;147.0
+;Germany;DEU;206.0
+;Germany;DEU;186.0
+;Germany;DEU;183.0
+;Germany;DEU;124.0
+;Korea, Republic of;KOR;85.0
+;China;CHN;154.0
+;Japan;JPN;110.0
+;China;CHN;78.0
+;China;CHN;96.0
+;China;CHN;144.0
