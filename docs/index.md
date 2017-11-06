@@ -5,7 +5,7 @@ Choropleth Maps of IP's location obtained from an elasticsearch database
 
 This tool creates a choropleth map from data stored in elasticsearch or from data stored in a CSV file.
 
-Is a draft tool so, it lacks some options about the elasticsearch connection, such as the host, port or SSL stuff. It assumes elasticsearch is running in localhost and port 9200. But the code can be easily changed [looking at this example](https://elasticsearch-py.readthedocs.io/en/master/#ssl-and-authentication). I will try to add these options in the future if I have time, but, at the moment, I don't require them for myself.
+Is a draft tool so, it lacks some options about the elasticsearch connection, such as the host, port or SSL stuff. It assumes elasticsearch is running in localhost and port 9200. But the code can be easily changed [looking at this example](https://elasticsearch-py.readthedocs.io/en/master/#ssl-and-authentication). I will try to add these options in the future if I have time, but, at the moment, I don't require them for myself. Feel free to fork it or propose new changes.
 
 ## Pre-requirements
 
