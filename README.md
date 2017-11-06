@@ -1,5 +1,4 @@
 # elasticGeoIPMaps
-This tool creates a choropleth map from data stored in elasticsearch or from data stored in a CSV file.
 
 <p align="right">
   Interactive visualization also available at: <a href="https://carlosvega.github.io/elasticGeoIPMaps/">https://carlosvega.github.io/elasticGeoIPMaps/</a>
