@@ -59,6 +59,7 @@ sed -i 's@https://cdn.plot.ly/@http://your.domain.com/@g' map.html
 
 This can be done for an hypothetical JavaScript version, replacing the CDN domain in the JavaScript version. I don't know if this breaks any license agreement. I couldn't find any copyright about [that file](https://cdn.plot.ly/world_110m.json). Notwithstanding, [the plotly.js version has been open-sourced](https://plot.ly/javascript/open-source-announcement/) 
 
-## Some comments
+## Some comments about a JavaScript version
 
-Developing this tool in JavaScript in order to run much of the process in the client side is no challenge at all. Is quite straightforward if you make use of [plotly.js](https://plot.ly/javascript/). I currently have a JavaScript version (a bit unclean). It just needs to load the CSV file with the IP-country relationship table, retrieve the data from elasticsearch trhough elastic REST API and make a few data conversions in order to plot it. Is of course much faster than doing it on python. I will update this page if I decide to make the JavaScript version available for the public.
+Developing this tool in JavaScript in order to run much of the process in the client side is no challenge at all. Is quite straightforward if you make use of [plotly.js](https://plot.ly/javascript/). I currently have a JavaScript version (a bit unclean). You just need to load the CSV file with the IP-country relationship table, retrieve the data from elasticsearch trhough elastic REST API and make a few data conversions in order to plot it. Is of course much faster than doing it on python. I will update this page if I decide to make the JavaScript version available for the public.
+
