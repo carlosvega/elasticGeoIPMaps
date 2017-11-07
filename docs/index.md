@@ -37,6 +37,12 @@ test/geoip_converted.csv
 test/geoip_map.html
 ```
 
+## Data requirements
+
+* The datatype of the IP field stored in the Elasticsearch database must be [an IP datatype](https://www.elastic.co/guide/en/elasticsearch/reference/current/ip.html) in order to get the integer representation of the IP addresses.
+
+* If a file is used instead, the column corresponding to the IP values must be filled with the integer representation of the IP addresses. An online tool to convert from IP to integer representation is available in the [browserling website](https://www.browserling.com/tools/ip-to-dec), but there are many offline tools and libraries to do so.
+
 ## Make the rendering of the map offline
 
 As depicted in the figure below, when the generated HTML file is opened through the browser, there is an HTTP network request to the plot.ly CDN in order to retrieve the borders that shape the map, defined in the file [https://cdn.plot.ly/world_110m.json](https://cdn.plot.ly/world_110m.json)
