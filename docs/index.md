@@ -8,7 +8,7 @@ Is a draft tool so, it lacks some options about the elasticsearch connection, su
 
 ## Motivation
 
-On an offline environment, solutions such as Kibana or other cannot create the tile map owing to the lack of external internet connection. By using offline geo-ip databases such as those available at [ip2location](http://lite.ip2location.com/database) it is possible to create an offline solution. Currently, the database in use is the smallest of its kind, [the ip-country database](http://lite.ip2location.com/database/ip-country). Thanks to the [choropleth maps](https://plot.ly/python/choropleth-maps/) from [plot.ly](plot.ly) we can create these maps offline. There is only one hack to be done. Read the section for more information.
+On an offline environment, solutions such as Kibana and the like cannot create the tile map owing to the lack of external internet connection. This offline solution makes use of an offline geo-ip databases available at [ip2location](http://lite.ip2location.com/database). Currently, the database in use is the smallest of its kind, [the ip-country database](http://lite.ip2location.com/database/ip-country). Thanks to the [choropleth maps](https://plot.ly/python/choropleth-maps/) from [plot.ly](plot.ly) we can create these maps offline. There is only one hack to be done. Read the section for more information.
 
 ## Pre-requirements
 
