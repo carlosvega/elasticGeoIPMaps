@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: [Geo-IP maps]
-description: [Python tool to generate maps from data stored in an Elasticsearch database or from a given CSV file.]
+title: Geo-IP maps
+description: Python tool to generate maps from data stored in an Elasticsearch database or from a given CSV file.
+show_downloads: true
